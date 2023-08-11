@@ -1,4 +1,4 @@
-# largest-design-resources-for-designers-developers
+# Largest Design Resources for Designers and Developers
 
 
 ## Animation Tools

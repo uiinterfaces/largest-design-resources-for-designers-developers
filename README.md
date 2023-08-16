@@ -1,13 +1,11 @@
 # Largest Design Resources for Designers and Developers
 
-
 ## Animation Tools
 Animation tools and starter kits inf PSD, Sketch, Figma
 
 
 | Website || Description |
 | :-------- | :------- | :------------------------- |
-| :-------- | :.................... | :------------------------- |
 | [Splitting.js](https://splitting.js.org/?ref=uiinterfaces) | Splitting creates elements and adds CSS variables to unlock amazing possibilities for animating text, grids, and more!
 | [Vanta.js](https://www.vantajs.com/?ref=uiinterfaces) | Animated website backgrounds in a few lines of code.|
 | [nice-waves](https://gvguy.github.io/nice-waves/?ref=uiinterfaces) | Beautiful animated waves|
@@ -114,7 +112,7 @@ UIInterfaces provides an array of builders to streamline your design process
 | [Zaap.ai](https://www.zaap.ai/?ref=uiinterfaces) | Gumroad + Linktree alternative for creators.|
 | [EarlyBird](https://earlybird.im/?ref=uiinterfaces) | Build a landing page and validate your new idea in 10 mins.|
 | [Wrapping Gum](https://www.wrappinggum.com/?ref=uiinterfaces) | Transform your Gumroad products into amazing sales pages.|
-| [Webcrate](https://www.webcrate.co/?ref=uiinterfaces) | Build smarter in Webflow.|
+| [Webcrate](https://www.webcrate.co/?ref=uiinterfaces) | Build smarter in Webflow. |
 | [Blocs 5.0](https://blocsapp.com/?ref=uiinterfaces) | The ultimate Mac website builder.|
 | [AllValue](https://www.allvalue.com/?utm_source=Media&utm_medium=producthunt&utm_campaign=myproduct&utm_content=websitelink?ref=uiinterfaces) | one-page website builder for social commerce.|
 | [Pineapple Builder](https://www.pineapplebuilder.com/?ref=uiinterfaces) | Website easier than WebFlow, more than Carrd. Easy as Notion.|
@@ -168,7 +166,6 @@ UIInterfaces provides an array of builders to streamline your design process
 | [Sites](https://sites.ng/?ref=uiinterfaces) | No-code website building platform|
 | [Webullar](https://www.webullar.com/?ref=uiinterfaces) | Create a website in 5 minutes with your phone|
 | [Thunkable](https://thunkable.com/?ref=uiinterfaces) | Thunkable enables anyone to create beautiful and powerful mobile apps.|
-
 
 ## Chrome & Firefox Extensions
 Enhance your browsing experience with UIInterfaces' Chrome and Firefox extensions.
@@ -408,8 +405,6 @@ Effortlessly collaborate with team members and clients using UIInterfaces' colla
 | [Pigment](https://pigment.shapefactory.co/?ref=uiinterfaces) | A unique way to generate fresh and vibrant colors based on lighting and pigment, instead of math. |
 | [Flat UI Colors](https://flatuicolors.com/?ref=uiinterfaces) | 13 color palettes from 13 designers from all over the world. |
 
-
-
 ## Design Systems
 UIInterfaces offers comprehensive design systems to ensure consistency and efficiency in your projects.
 
@@ -603,4 +598,4 @@ UIInterfaces provides a wide range of design tools for graphic designers, web de
 | [Figma: The Collaborative Interface Design Tool](https://www.figma.com/?ref=uiinterfaces) | A design tool based in the browser, that allows to design and prototype with real-time collaboration. |
 | [Adobe XD](https://helpx.adobe.com/support/xd.html?ref=uiinterfaces) | Design, prototype, and share any user experience, from websites and mobile apps to voice interactions. |
 | [Gimp](https://www.gimp.org/?ref=uiinterfaces) | A free & open source imaging and graphic design software. |
-| [Creative Flow](http://asteya.network/host/thestocks-api-integration/?target=shutterstock&cat=creativeflow?ref=uiinterfaces) | Online Design Tools Powered by AI | Shutterstock |
+| [Creative Flow](http://asteya.network/host/thestocks-api-integration/?target=shutterstock&cat=creativeflow?ref=uiinterfaces) | Online Design Tools Powered by AI - Shutterstock |

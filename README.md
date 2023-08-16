@@ -5,14 +5,14 @@ Animation tools and starter kits inf PSD, Sketch, Figma
 | Website | Description |
 | --- | --------------- |
 | [Splitting.js](https://splitting.js.org/?ref=uiinterfaces) | Splitting creates elements and adds CSS variables to unlock amazing possibilities for animating text, grids, and more!
-| [Vanta.js](https://www.vantajs.com/?ref=uiinterfaces) | Animated website backgrounds in a few lines of code.|
-| [nice-waves](https://gvguy.github.io/nice-waves/?ref=uiinterfaces) | Beautiful animated waves|
-| [splidejs](https://splidejs.com/?ref=uiinterfaces) | Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.|
-| [Theatre.js](https://www.theatrejs.com/?ref=uiinterfaces) | Theatre.js is a JavaScript animation library with a GUI. It animates the DOM, WebGL, and any other JavaScript variable.|
-| [Tingle.js](https://tingle.robinparisi.com/?ref=uiinterfaces) | Tingle is a simple modal plugin written in pure JavaScript|
-| [Midnight.js](https://aerolab.github.io/midnight.js/?ref=uiinterfaces) | Midnight.js lets you switch fixed headers on the fly|
-| [Progress Bar.js](https://kimmobrunfeldt.github.io/progressbar.js/?ref=uiinterfaces) | Responsive and slick progress bars with animated SVG paths.|
-| [Typed.js](https://mattboldt.com/demos/typed-js/?ref=uiinterfaces) | A JavaScript Typing Animation Library.|
+| [Vanta.js](https://www.vantajs.com/?ref=uiinterfaces) | Animated website backgrounds in a few lines of code.
+| [nice-waves](https://gvguy.github.io/nice-waves/?ref=uiinterfaces) | Beautiful animated waves
+| [splidejs](https://splidejs.com/?ref=uiinterfaces) | Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
+| [Theatre.js](https://www.theatrejs.com/?ref=uiinterfaces) | Theatre.js is a JavaScript animation library with a GUI. It animates the DOM, WebGL, and any other JavaScript variable.
+| [Tingle.js](https://tingle.robinparisi.com/?ref=uiinterfaces) | Tingle is a simple modal plugin written in pure JavaScript
+| [Midnight.js](https://aerolab.github.io/midnight.js/?ref=uiinterfaces) | Midnight.js lets you switch fixed headers on the fly
+| [Progress Bar.js](https://kimmobrunfeldt.github.io/progressbar.js/?ref=uiinterfaces) | Responsive and slick progress bars with animated SVG paths.
+| [Typed.js](https://mattboldt.com/demos/typed-js/?ref=uiinterfaces) | A JavaScript Typing Animation Library.
 | [Vivus](https://maxwellito.github.io/vivus/?ref=uiinterfaces) | Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearence of being drawn.|
 | [Popmotion](https://popmotion.io/?ref=uiinterfaces) | Simple animation libraries for delightful user interfaces.|
 | [Granim.js](https://sarcadass.github.io/granim.js/index.html?ref=uiinterfaces) | Create fluid and interactive gradient animations with this small javascript library.|

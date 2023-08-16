@@ -2,7 +2,8 @@
 
 ## Animation Tools
 Animation tools and starter kits inf PSD, Sketch, Figma
-
+| Website | Description |
+| --- | --------------- |
 | [Splitting.js](https://splitting.js.org/?ref=uiinterfaces) | Splitting creates elements and adds CSS variables to unlock amazing possibilities for animating text, grids, and more!
 | [Vanta.js](https://www.vantajs.com/?ref=uiinterfaces) | Animated website backgrounds in a few lines of code.|
 | [nice-waves](https://gvguy.github.io/nice-waves/?ref=uiinterfaces) | Beautiful animated waves|
@@ -80,8 +81,8 @@ Animation tools and starter kits inf PSD, Sketch, Figma
 UIInterfaces provides an array of builders to streamline your design process
 
 
-| Website || Description |
-| :-------- | :------- | :------------------------- |
+| Website | Description |
+| -------- | ------------------------- |
 | [Codepng](https://codepng.app/?ref=uiinterfaces) | Convert your source code into awesome shareable images.|
 | [Octopus](https://octopus.do/?ref=uiinterfaces) | Sitemap builder|
 | [Bliimzing](https://bloomzing.com/?ref=uiinterfaces) | Create a personal website in 1 minute, AI Personal Website Builder get 14X more interviews.|

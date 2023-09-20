@@ -597,3 +597,756 @@ UIInterfaces provides a wide range of design tools for graphic designers, web de
 | [Adobe XD](https://helpx.adobe.com/support/xd.html?ref=uiinterfaces) | Design, prototype, and share any user experience, from websites and mobile apps to voice interactions. |
 | [Gimp](https://www.gimp.org/?ref=uiinterfaces) | A free & open source imaging and graphic design software. |
 | [Creative Flow](http://asteya.network/host/thestocks-api-integration/?target=shutterstock&cat=creativeflow?ref=uiinterfaces) | Online Design Tools Powered by AI - Shutterstock |
+
+## Designer Podcasts
+Immerse yourself in a world of inspiration with UIInterfaces' designer podcasts.
+
+
+| Website | Description |
+| -------- | ------------------------- |
+| [Kradl](https://kradl.io/?ref=uiinterfaces) | Find the perfect podcast episode for your interests |
+| [PodFire](https://www.podfire.xyz/?ref=uiinterfaces) | Free weekly email of recent podcast episodes discussing hot topics|
+| [Backup My Podcast](https://origin.fm/now/?ref=uiinterfaces) | Disaster recovery for the work you're most proud of|
+| [The Podcast Charts](https://podcastcharts.byspotify.com/de?ref=uiinterfaces) | Your daily guide to popular podcasts on Spotify|
+| [Moonbeam](https://www.moonbeam.fm/?ref=uiinterfaces) | Easiest way to discover your next favorite podcast|
+| [Discover New Podcasts](https://rephonic.com/discover?utm_source=producthunt?ref=uiinterfaces) | Podcast recommendations based on what you already listen to.|
+| [Podopolo](https://www.podopolo.com/?ref=uiinterfaces) | Social podcasting app to discover, listen and engage|
+| [Podcatalyst Newsletter](https://podcatalysts.substack.com/?ref=uiinterfaces) | Weekly podcast recommendations, right in your inbox|
+| [Disctopia](https://disctopia.com/?ref=uiinterfaces) | A podcasting & streaming platform for creatives|
+| [The Optimal Path Podcast](https://maze.co/podcast/?ref=uiinterfaces) | A podcast about product decision-making|
+| [On Design](https://ondesignpodcast.com/?ref=uiinterfaces) | On Design brings you insightful conversations with design's most inspiring figures - from designers to artists, creative directors to entrepreneurs and ...|
+| [Perspective](https://coachscottyrussell.com/side-hustlers-perspective?ref=uiinterfaces) | The Side Hustler's Perspective Podcast is fuel for your mind and creative grind. Each week, Coach Scotty Russell and his industry-leading guests break down ...|
+| [99% Invisible](https://podcasts.apple.com/us/podcast/99-invisible/id394775318?mt=2?ref=uiinterfaces) | 99% Invisible is a weekly exploration of the process and power of design and architecture. From award winning producer Roman Mars.|
+| [Design Notes](https://designnotes.fm/?ref=uiinterfaces) | Design Notes is a podcast about creative work and what it teaches us, hosted by Google's Liam Spradlin. Each episode we talk with people from unique ...|
+| [UI Breakfast](https://uibreakfast.com/category/podcast/?ref=uiinterfaces) | UI Breakfast Podcast. Join us for exciting conversations about UI/UX design, products, marketing, and so much more.|
+| [World-class](https://podcasters.spotify.com/pod/show/worldclass-designer?ref=uiinterfaces) | This podcast is a series of interviews with world-class designers. I interview designers from world-leading tech companies such as IDEO, Dropbox, Airbnb, ...|
+| [Designer & Designer](https://designer.fm/?ref=uiinterfaces) | Designer & Designer is a podcast about design. Each episode dives into a design topic with candor and humor, exposing the rarely talked about challenges ...|
+| [Shop Talk Show](https://shoptalkshow.com/?ref=uiinterfaces) | A live podcast about front end web design and UX.|
+| [Ramblings of a Designer](https://podcasts.apple.com/us/podcast/ramblings-of-a-designer-podcast/id1410850598?mt=2?ref=uiinterfaces) | Ramblings of a Designer|
+| [Users Know](https://www.usersknow.com/podcast?ref=uiinterfaces) | Kate Rutter and Laura Klein have a podcast! We get together once in awhile and argue about UX, tech, or what to drink.|
+| [Design Life](https://www.designlife.fm/?ref=uiinterfaces) | Design Life is a podcast about design and side projects for motivated creators.|
+| [Scratching Surface](https://scratchingthesurface.fm/?ref=uiinterfaces) | Is a podcast about the intersection of criticism and practice for graphic designers by Jarrett Fuller.|
+| [Design Matters](https://www.designmattersmedia.com/designmatters?ref=uiinterfaces) | The world's first podcast about design and an inquiry into the broader world of creative culture through wide-ranging conversations with designers, writers, artists, curators, musicians, and other luminaries of contemporary thought |
+| [99 Percent Invisible](https://99percentinvisible.org/episodes/?ref=uiinterfaces) | 99% Invisible is about all the thought that goes into the things we don’t think about — the unnoticed architecture and design that shape our world.|
+| [Responsive Webdesign](https://responsivewebdesign.com/podcast/?ref=uiinterfaces) | This is a Responsive Web Design Podcast, co-hosted by Karen McGrane and Ethan Marcotte. In each episode, Karen and Ethan interview the people who make responsive redesigns happen.|
+| [Students Who Design](https://anchor.fm/students-who-design?ref=uiinterfaces) | A podcast bridging the gap between students and the design industry. For Students, By Students.|
+| [Yo!](https://yo.fm/?ref=uiinterfaces) | Yo! is a celebration of great design and development online.|
+| [Google Design](https://design.google/?ref=uiinterfaces) | Explore this month's featured podcast collection to get design inspiration and insights for the new year. Method explores the career journeys of designers at Google, while Design Notes goes in-depth with designers working in diverse creative disciplines. |
+| [Here by Design](https://podcasters.spotify.com/pod/show/here-by-design?ref=uiinterfaces) | A podcast exploring all the things my mind explores.|
+| [Immutable](https://spec.fm/podcasts/immutable?ref=uiinterfaces) | A short, weekly show about design and development.|
+| [Revision Path](https://revisionpath.com/?ref=uiinterfaces) | This is Revision Path — an award-winning weekly showcase of Black designers, developers, and digital creatives from all over the world. |
+| [Design Details](https://designdetails.fm/episodes?ref=uiinterfaces) | A weekly conversation about design process and culture.|
+| [UX Podcast](https://uxpodcast.com/?ref=uiinterfaces) | UXPodcast™ is a twice-monthly digital design podcast sharing insights about business, technology and people since 2011. We want to push the boundaries of how user experience is perceived and boost your confidence in the work you do.|
+| [Design Better](https://www.designbetter.co/podcast?ref=uiinterfaces) | We chat with design leaders to uncover how they achieved success. Hear stories and insights from the best in product design. |
+| [Layout](https://layout.fm/?ref=uiinterfaces) | A weekly podcast about design, technology, programming and everything else.|
+| [Design Your Life](https://designyourlife.com.au/podcasts?ref=uiinterfaces) | Design Your Life|
+| [Overtime](https://dribbble.com/overtime?ref=uiinterfaces) | Dribbble’s official podcast goes behind the shots of your favorite designers.|
+| [High Resolution](https://www.highresolution.design/?ref=uiinterfaces) | High Resolution is a video podcast series with 25 masters of the design industry hosted by Bobby Ghoshal and Jared Erondu. Learn how the world's best companies approach, communicate and deploy design."|
+| [Indie Hackers](https://www.indiehackers.com/podcasts?ref=uiinterfaces) | Raw conversations with the founders behind profitable online businesses. Hosted by Courtland Allen.|
+| [Layer Podcast](https://podcasters.spotify.com/pod/show/layer?ref=uiinterfaces) | A series of conversations with designer founders about their careers and the design industry. hosted by Antonio Pratas|
+| [Honest Designers](https://www.designcuts.com/honest-designers/?ref=uiinterfaces) | Honest discussion from real designers.|
+
+
+## Favicons
+Immerse yourself in a world of inspiration with UIInterfaces' designer podcasts.
+
+
+| Website | Description |
+| -------- | ------------------------- |
+| [pixeden](https://themes-pixeden.com/font-demos/7-stroke/index.html?ref=uiinterfaces) | 202 thin stroke icons inspired by iOS 7. |
+| [Maskable.app Editor](https://maskable.app/editor/?ref=uiinterfaces) | Generate maskable PWA icons based on your existing icon. |
+| [Favicon.cc](https://www.favicon.cc/?ref=uiinterfaces) | Draw a favicon online and browse through a library of favicons made by other users. |
+| [FontIcon](https://gauger.io/fonticon/?ref=uiinterfaces) | Generate favicons and images from Font Awesome icons. |
+| [RealFaviconGenerator](https://realfavicongenerator.net/?ref=uiinterfaces) | Generate icons for all platforms (Windows, iOS, Android) |
+| [Favicomatic](https://favicomatic.com/?ref=uiinterfaces) | Generate favicons of all the sizes and formats as well as the HTML code needed to support every possible browser or device. |
+| [Favicon.io](https://favicon.io/?ref=uiinterfaces) | Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats. |
+| [Favicon Generator](https://www.favicon.software/?ref=uiinterfaces) | Generate favicons & manifest file for your site/PWA |
+
+## Font Tools
+Immerse yourself in a world of inspiration with UIInterfaces' designer podcasts.
+
+
+| Website | Description |
+| -------- | ------------------------- |
+| [Colors & Fonts](https://www.colorsandfonts.com/?ref=uiinterfaces) | A curated library of colors, fonts and resources |
+| [FontBolt](https://www.fontbolt.com/?ref=uiinterfaces) | Discover and generate your favorite fonts from pop culture. |
+| [Fontsource](https://fontsource.org/?ref=uiinterfaces) | Self-host Open Source fonts in neatly bundled NPM packages. |
+| [Typespiration](https://typespiration.com/?ref=uiinterfaces) | Inspirational font combinations and color palettes |
+| [UrbanFonts](https://www.urbanfonts.com/?ref=uiinterfaces) | A collection of over 8000 free fonts and dingbats. |
+| [W Fonts](https://www.wfonts.com/?ref=uiinterfaces) | Download Free fonts |
+| [Font M](https://fontm.com/?ref=uiinterfaces) | Free font you can download for material coding and design |
+| [Dev Fonts](https://devfonts.gafi.dev/?ref=uiinterfaces) | Find and use the coding fonts for free. |
+| [Malayalam Fonts](https://smc.org.in/fonts/?ref=uiinterfaces) | Malayalam fonts for free which are maintained by Swathanthra Malayalam Computing(SMC). |
+| [FFonts](https://www.ffonts.net/?ref=uiinterfaces) | Stylish fonts for free. |
+| [Rough Font Awesome](https://djamshed.github.io/rough-awesome-font/dist/?ref=uiinterfaces) | When Rough JS meets Font Awesome. |
+| [Glyphter](https://glyphter.com/?ref=uiinterfaces) | Upload your own SVGS and turn them into font files. Useful if you want a smaller library loaded. |
+| [Open Foundry](https://open-foundry.com/?ref=uiinterfaces) | FREE platform for curated open-source typefaces. |
+| [FontDrop](https://fontdrop.info/?ref=uiinterfaces) | Simple and easy way to view the contents of font files. |
+| [Arabic fonts](https://arabicfonts.net/?ref=uiinterfaces) | Arabic fonts for free. |
+| [Befonts](https://befonts.com/?ref=uiinterfaces) | High quality fonts for free. |
+| [Fonts Arena](https://fontsarena.com/?ref=uiinterfaces) | Free curated fonts|
+| [Font Flipper](https://fontflipper.com/upload?ref=uiinterfaces) | Preview 800+ Google Fonts on top of your own designs, without having to download the fonts. |
+| [Fonts for Apple Platforms](https://developer.apple.com/fonts/?ref=uiinterfaces) | Get the details, frameworks, and tools you need to use system fonts for Apple platforms in your apps. |
+| [Free Typography](https://freetypography.com/?ref=uiinterfaces) | A list of high quality fonts |
+| [Font Space](https://www.fontspace.com/?ref=uiinterfaces) | A designer-centered free font website that has quick customizable previews |
+| [FontPair](https://www.fontpair.co/?ref=uiinterfaces) | Helps you pair Google Fonts together |
+| [FontGet](https://www.fontget.com/?ref=uiinterfaces) | Has a variety of fonts available to download and sorted neatly with tags |
+| [Fontjoy](https://fontjoy.com/?ref=uiinterfaces) | Generate font pairing in one click |
+| [1001 Free Fonts](https://www.1001freefonts.com/?ref=uiinterfaces) | I think the name speaks for itself. |
+| [Use & Modify](https://usemodify.com/?ref=uiinterfaces) | Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces |
+| [FontArk](https://fontark.net/farkwp/?ref=uiinterfaces) | FontArk is an innovative new browser based online font editor, font creator, featuring a unique real time Multiple-Character-Editing tool. |
+| [LandingPageFonts.com](https://landingpagefonts.com/?ref=uiinterfaces) | Fonts from Successful Startups and Billion Dollar Companies |
+| [Font pairing generator](https://www.monotype.com/font-pairing#/playground?fontPair1=Skolar%20Sans%20Latin&fontPair2=ITC%20Galliard%20Pro%20Roman?ref=uiinterfaces) | Find the perfect font pairings powered by Monotype's AI |
+| [Modern Font Stacks](https://modernfontstacks.com/?ref=uiinterfaces) | System font stack CSS organized by typeface classification |
+| [FBOMBS](https://fbombs.xyz/?ref=uiinterfaces) | Dropping a new font bundle every month |
+| [Fonty.io](https://fonty.io/?ref=uiinterfaces) | Find used fonts on any website with - Fonty.io |
+| [Google Fonts Checker](https://fontsplugin.com/google-fonts-checker/?ref=uiinterfaces) | Scan your website to discover where your fonts are hosted. |
+| [Colors and fonts](https://www.colorsandfonts.com/?ref=uiinterfaces) | Color and typography for Web Developers and Digital Designers. |
+| [What The Font](https://www.myfonts.com/pages/whatthefont?ref=uiinterfaces) | How it works: WhatTheFont uses deep learning to search our collection of over 133,000 font styles and find the best match for the fonts in your photo. |
+| [FontLab Studio](https://www.fontlab.com/?ref=uiinterfaces) | FontLab Studio is our classic font editor. Designers, typographers and graphic design studios, allowing them to design typefaces and create or modify fonts. |
+| [CR8software](https://www.cr8software.net/typelight.html?ref=uiinterfaces) | CR8 Software Solutions for easy-to-use font making and ID card printing software. |
+| [TTFEdit](https://sourceforge.net/projects/ttfedit/?ref=uiinterfaces) | TTFEdit is a GPL editor for TrueType fonts. TrueType is a standard used by modern operating systems like Mac OS X, Windows XP and Linux. |
+| [BitFontMaker2](https://www.pentacom.jp/pentacom/bitfontmaker2?ref=uiinterfaces) | BitFontCreator is a professional bitmap font creator tool for your embedded project, which helps you create monochrome (1-bpp) bitmap fonts and antialiased (2-bpp and 4-bpp) bitmap fonts for graphical LCD / LED. |
+| [Glyphr Studio](https://www.glyphrstudio.com/?ref=uiinterfaces) | Glyphr Studio is a free, web based font designer. Version 1 is here! Font design has a high barrier of entry. |
+| [FontStruct](https://fontstruct.com/?ref=uiinterfaces) | FontStruct is a free font-building tool, funded by advertising and some generous sponsors. |
+| [FontForge](https://fontforge.org/en-US?ref=uiinterfaces) | FontForge is a free and open source font editor brought to you by a community of fellow type lovers. |
+| [BirdFont](https://birdfont.org/?ref=uiinterfaces) | Birdfont is a free font editor which lets you create vector graphics and export TTF, OTF and SVG fonts. |
+| [Calligraphr](https://www.calligraphr.com/en/?ref=uiinterfaces) | Transform your handwriting and calligraphy into fully functional vector fonts with our web application. Creating your own font has never been easier. |
+| [Font Fabric](https://www.fontfabric.com/fonts?ref=uiinterfaces) | High-quality typefaces, calligraphy and lettering. |
+| [Abstract Fonts](https://www.abstractfonts.com/?ref=uiinterfaces) | Download, view, test-drive, bookmark free fonts. Features more than 13,500 free fonts. |
+| [Font Squirrel](https://www.fontsquirrel.com/?ref=uiinterfaces) | Free fonts have met their match. We know how hard it is to find quality freeware that is licensed for commercial work. We've done the hard work, hand-selecting these typefaces and presenting them in an easy-to-use format. |
+| [Dafont](https://dafont.com/?ref=uiinterfaces) | Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity. |
+| [Google Fonts](https://fonts.google.com/?ref=uiinterfaces) | Making the web more beautiful, fast, and open through great typography. |
+
+
+## For Figma
+UIInterfaces offers a range of resources specifically designed for Figma users. Explore plugins, templates, and design assets tailored to enhance your Figma workflow.
+
+| Website | Description |
+| -------- | ------------------------- |
+| [html.to.design 2.0](https://www.figma.com/community/plugin/1159123024924461424/html.to.design?ref=uiinterfaces) | Convert any website into fully editable Figma designs |
+| [Prowriting](https://www.prowriting.biz/?ref=uiinterfaces) | The best AI UX writing solution in Figma |
+| [Bravorizer](https://www.bravostudio.app/?ref=uiinterfaces) | Turn Figma into Webflow for native mobile apps |
+| [Flash UI by Figr](https://www.figma.com/community/plugin/1250168948555905040/Flash-UI-by-Figr?ref=uiinterfaces) | Get Editable Designs of Popular Products in Figma |
+| [Space Figma Design System and UI Kit](https://www.spaceui.design/?ref=uiinterfaces) | Ultimate Figma design system for SaaS and admin panels. |
+| [Populate for Figma](https://www.figma.com/community/plugin/1240181312791888696/?ref=uiinterfaces) | Populate your Figma designs with detailed sets of real data. |
+| [Figma Onboarding Components from Bento](https://www.trybento.co/resources/figma?ref=uiinterfaces) | Add personalized onboarding & activation to your product. |
+| [UX Writing Assistant by Frontitude](https://www.frontitude.com/ux-writing-assistant?ref=uiinterfaces) | Improve your user experience with AI-powered copy. |
+| [Clonify Figma Library](https://clonify.io/?ref=uiinterfaces) | Level up your Figma game.|
+| [Figma to Lottie](https://lottiefiles.com/plugins/figma?ref=uiinterfaces) | Export production-ready animations from Figma.ico |
+| [Pulpo](https://usepulpo.com/?ref=uiinterfaces) | Figma, comments, productivity, feedback, product design.ico |
+| [Coffee Writer](https://www.coffeewriter.in/?ref=uiinterfaces) | Transform your copy with ease.ico |
+| [Genie](https://www.figma.com/community/plugin/1227295209727026769?ref=uiinterfaces) | Simplify your content creation process with AI in Figma. |
+| [Figma Export to Video](https://www.figma.com/community/plugin/1170836206919391034?ref=uiinterfaces) | One-click export of Figma prototypes to GIF, webM or MP4. |
+| [Figma Behavioral Design System](https://www.coglode.com/figma?ref=uiinterfaces) | Back up your ideas with evidence. |
+| [AI Art Generator for Figma](https://www.figma.com/community/plugin/1221881132746891189?ref=uiinterfaces) | Generative AI plugin for your own designs. |
+| [FigGPT](https://www.olexdsgn.com/figgpt?utm_source=producthunt&utm_medium=release-page&utm_campaign=first_launch?ref=uiinterfaces) | Use ChatGPT in Figma or Figjam. |
+| [Figma Comment Organizer by Magicul](https://comments.magicul.io/?ref=uiinterfaces) | View all comments, set reminders, due dates & more. |
+| [Relume Ipsum](https://www.relumeipsum.com/?ref=uiinterfaces) | The fastest way to write website copy using AI in Figma. |
+| [Frontender](https://www.frontender.io/?ref=uiinterfaces) | A smart Figma plugin that writes front-end code. |
+| [MagicBrushAI](https://www.magicbrushai.com/?ref=uiinterfaces) | Figma plugin to generate and edit images using AI. |
+| [3D Illustration Plugin](https://3d-illustration-plugin.com/?ref=uiinterfaces) | Simple plugin with huge 3d library right in Figma. |
+| [IconScout Plugin for Figma](https://iconscout.com/plugins/for-figma?ref=uiinterfaces) | Access 5.7 million+ design assets right within Figma. |
+| [Copy & Paste](https://www.figma.com/community/plugin/1209526205155466227/Copy%26Paste?ref=uiinterfaces) | Duplicate frames, double your design speed. |
+| [FigCopy](https://akshit.gumroad.com/l/FigCopy?ref=uiinterfaces) | Generate copy for designs using AI in just a click. |
+| [Figma to WordPress Beta](https://yotako.io/?ref=uiinterfaces) | Convert Figma to WordPress websites & themes automatically. |
+| [Figma to Webflow plugin](https://www.figma.com/community/plugin/1164923964214525039/Figma-to-Webflow-(HTML%2C-CSS-and-Website)?ref=uiinterfaces) | Design websites in Figma, launch in Webflow. |
+| [Fig Stats](https://fig-stats.com/?ref=uiinterfaces) | Figma community plugin & widget analytics. |
+| [Protoloop](https://figma-flow-8eeaf8.webflow.io/?ref=uiinterfaces) | Share your Figma design and collect heatmaps & feedback. |
+| [Contentful to Figma Plugin](https://contentfultofigma.com/?ref=uiinterfaces) | Effortlessly blend Contentful and Figma into your workflow. |
+| [Tetrisly Design System](https://tetrisly.com/?ref=uiinterfaces) | Figma component library, design tokens plugin. |
+| [Craft Systems](https://www.craftsystems.xyz/?ref=uiinterfaces) | A collection of FREE Figma kits. |
+| [Height + Figma](https://height.app/integrations/figma?beta=true?ref=uiinterfaces) | Keep everyone in the loop without even leaving the canvas. |
+| [Charts Line Modifier](https://www.figma.com/community/plugin/1184749025425536284/Chart-Modifier?ref=uiinterfaces) | Modify the line of line charts 10x fast. |
+| [Universal UI Kit (Web) v3.0](https://123d.one/products/universal-ui-kit-web?ref=uiinterfaces) | The Most Universal UI Kit for Figma. |
+| [Easy Mockup Figma Plugin](https://www.figma.com/community/plugin/1180592708021765520/Easy-Mockup?ref=uiinterfaces) | The easiest way to create mockups in Figma. |
+| [Noise & Texture for Figma](https://www.figma.com/community/plugin/1138854718618193875/Noise-%26-Texture?ref=uiinterfaces) | Dynamic seamless noise, textures and patterns in Figma. |
+| [SpellCheck](https://www.spellcheckfigma.com/?ref=uiinterfaces) | The best tool for spell-checking on Figma - make no mistake. |
+| [Appalette for Figma](https://www.figma.com/community/plugin/1177374403232613940/Appalette?ref=uiinterfaces) | A plugin that lets you find the color palette of any app. |
+| [html.to.design Chrome Extension](https://chrome.google.com/webstore/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed?ref=uiinterfaces) | Convert any website into fully editable Figma designs. |
+| [Pixelbricks](https://pixelbricks.framer.website/?ref=uiinterfaces) | Pixelbricks transforms Figma pixel art into real bricks. |
+| [Summon.AI](https://www.figma.com/community/plugin/1172891596048319817/Summon.AI?ref=uiinterfaces) | Generate beautiful images with DALL-E-2 in Figma. |
+| [Standerd Figma UI Kit](https://www.standerd.co/?ref=uiinterfaces) | Standerd is a simple Figma design system. |
+| [Mix & Match](https://mixmatch.craftwork.design/?ref=uiinterfaces) | 3D scene constructor with vector elements for cool designs. |
+| [FUNCTION12](https://function12.io/?ref=uiinterfaces) | Design-to-code automation tool. |
+| [Superpage](https://superpage.design/?ref=uiinterfaces) | Design any Saas using single kit. |
+| [Literal for Figma](https://www.figma.com/community/plugin/1169796060307918456/Literal/Screen-inventory-generator?ref=uiinterfaces) | Turn screen recordings into screenshots. |
+| [Cabana 6 Design System for Figma](https://www.cabanaforfigma.com/?ref=uiinterfaces) | Design system for Figma. |
+| [Illustration Builder for Figma](https://sliday.gumroad.com/l/illustrations-kit-for-figma?ref=uiinterfaces) | 300+ components, unlimited combinations. |
+| [Ultimate Input Builder](https://burakerenoglu.gumroad.com/l/inputbuilder?ref=uiinterfaces) | Easy to use Figma input component. |
+| [SplashAI](https://www.splashai.art/?ref=uiinterfaces) | A Figma plugin, search engine and AI-powered image generator. |
+| [UIHUT – Figma Plugin](https://www.figma.com/community/plugin/1162429535586149534/UIHUT---UI-Kit%2C-Illustrations%2C-3D-Assets%2C-Icons?ref=uiinterfaces) | Access 21000+ resources by copy paste from Figma plugin. |
+| [Random Icebreakers for Figma](https://www.figma.com/community/widget/1149784500071706375/Random-Icebreakers-by-Parabol?ref=uiinterfaces) | Find the perfect icebreaker for your next meeting or event. |
+| [html.to.design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design?ref=uiinterfaces) | Convert any website into fully editable Figma designs. |
+| [Watch Mirror for Figma](https://watchmirror.app/?ref=uiinterfaces) | Preview your Figma designs on Apple Watch. |
+| [Starto](https://www.figma.com/community/file/1085579873179016133?ref=uiinterfaces) | Free email design system for Figma with auto-layout |
+| [Figma Autoname](https://www.autoname.org/?ref=uiinterfaces) | Name all your Figma layers in one click, free & open source. |
+| [Token Master](https://www.token-master.com/?ref=uiinterfaces) | Edit design tokens and create new color modes in Figma |
+| [The Design Encyclopedia for Figma](https://www.designencyclopedia.io/?ref=uiinterfaces) | The world's largest Figma UI kit. |
+| [Phigma](https://www.phigma.app/?ref=uiinterfaces) | 100+ Figma templates for your Product Hunt images |
+| [QR Coder](https://www.figma.com/community/plugin/963138214942646066/QR-Coder?ref=uiinterfaces) | Generate QR codes with urls and insert into Figma. |
+| [Figma Design System](https://www.pixsellz.io/figma-design-system?ref=uiinterfaces) | Starter kit for your UI design projects in Figma |
+| [Stratum UI Design Kit for Figma](https://stratumkit.com/?ref=uiinterfaces) | Turn into UI maestro with 9000+ life-saving components |
+| [Bica for Figma 3.0](https://www.bicaforfigma.com/?ref=uiinterfaces) | A flexible UI starter kit for Figma |
+| [Figmaster](https://www.figmaster.co/?ref=uiinterfaces) | Build your design system by doing exercises in Figma. |
+| [Duckly](https://duckly.com/?ref=uiinterfaces) | Collaborate on any page with a Figma-like experience |
+| [eBook Kit for Figma](https://sliday.gumroad.com/l/ebook-ui-kit-for-figma?ref=uiinterfaces) | Build and sell your ebook in minutes, not days |
+| [Module](https://modulesystem.design/?ref=uiinterfaces) | Drag and drop design system for Figma. |
+| [GIF Export](https://www.figma.com/community/plugin/878338850782783595/GIF-Export?ref=uiinterfaces) | Export GIFs from Figma. |
+| [Figma Tips Plugin](https://www.figma.com/community/plugin/973621811122426089/Figma-Tips?ref=uiinterfaces) | Watch short tutorials on Figma, while designing in Figma! |
+| [Jitter](https://www.figma.com/community/plugin/961270034818256057/Jitter-%C2%B7-Animate-your-Figma-designs/Jitter-%C2%B7-Animation-for-Figma?ref=uiinterfaces) | Animate your Figma designs in Jitter, easily. |
+| [Full iOS 15 UI Kit](https://despoth.gumroad.com/l/full-ios-ui-kit?ref=uiinterfaces) | Design System for mobile apps creators in Figma |
+| [Vuetify for Figma](https://www.vuetifyforfigma.com/?ref=uiinterfaces) | A huge component library now available for Figma. |
+| [Venus Dashboard Builder](https://thestocks.im/for-figma?ref=uiinterfaces) | Premium dashboard builder for Figma based on Venus Design. |
+| [Browser Kit for Figma](https://browserfigma.com/?ref=uiinterfaces) | One smart component to rule them all |
+| [Procreate Import for Figma](https://www.figma.com/community/plugin/990407184454470770/Procreate-Import?ref=uiinterfaces) | Import your .procreate files into Figma. |
+| [SketchKeys](https://sketchkeys.com/?ref=uiinterfaces) | Keyboard stickers for Figma, Notion, Sketch, etc. |
+| [UX and Research Kit for Figma](https://maleksander.gumroad.com/l/uxrkit?ref=uiinterfaces) | You can add great-looking research docs next to your designs |
+| [Startup Pitch Deck](https://graphicle.notion.site/graphicle/Startup-Pitch-Deck-Figma-Template-f99206b2fa6c4a6b817748b7616792b9?ref=uiinterfaces) | An all-in-one Figma template for your startup pitch deck. |
+| [Quickr Design System](https://quickrdesignsystem.com/?ref=uiinterfaces) | 2000+ Figma components library to design web app & SaaS. |
+| [HEIC Image Import](https://www.figma.com/community/plugin/997126103738146818/HEIC-Import?ref=producthunt?ref=uiinterfaces) | Import .HEIC images into Figma as PNG, JPEG or GIF. |
+| [Olson Brand Guide for Figma](https://iamrahulrao.gumroad.com/l/olson-style-guide?ref=uiinterfaces) | A style guide generator using Figma components. |
+| [Lazy Load](https://www.figma.com/community/plugin/990910408295947511/Lazy-Load?ref=uiinterfaces) | Convert Figma screens into loading skeleton |
+| [Cabana 5 Design System for Figma](https://www.cabanaforfigma.com/?ref=uiinterfaces) | Design System for Figma |
+| [Handy components](https://www.thepentool.co/handy-components?ref=uiinterfaces) | Figma plugin to instantly drop components with auto layout |
+| [Figsplosion](https://www.figma.com/community/plugin/1002305807367001638/Figsplosion?ref=uiinterfaces) | Blow off steam by blowing up your Figma designs! |
+| [Warp Tools](https://www.figma.com/community/plugin/1021499620946646699/Warp-Tools?ref=uiinterfaces) | Smudge, twirl, pinch, arc and free transform tools for Figma. |
+| [FigmaOP](https://figmaop.netlify.app/?ref=uiinterfaces) | Set of open source Figma plugins |
+| [Protofly](https://www.figma.com/community/plugin/1021879782774011952/Protofly?ref=uiinterfaces) | Create, save and reuse prototype interactions in Figma. |
+| [Stark for FigJam](https://www.figma.com/community/widget/1030161589655245054/Stark-Accessibility-Checklist?ref=uiinterfaces) | Accessibility whiteboarding meets FigJam |
+| [Ventana UI Kit](https://uidesigndaily.gumroad.com/l/zaqBU?ref=uiinterfaces) | Web application UI kit created in Figma. |
+| [Lunacy](https://icons8.com/lunacy?ref=uiinterfaces) | Cross-platform app, faster than Figma, smarter than Sketch |
+| [Spirous](https://www.figma.com/community/plugin/1027629657711671993/Spirous?ref=uiinterfaces) | Figma plugin to create spirograph patterns |
+| [Dark Vader for Figma](https://www.figma.com/community/plugin/941336520474170939/Moodz?ref=uiinterfaces) | Design in one theme & automate the rest |
+| [Moodz](https://www.figma.com/community/plugin/941336520474170939/Moodz?ref=uiinterfaces) | Mood Board plugin for Figma |
+| [Text Volume plugin](https://www.figma.com/community/plugin/1040340750434492789/Text-Volume?ref=uiinterfaces) | Find how much text is in any design |
+| [Marketing Components](https://dlex.io/products/marketing-components-figma?ref=uiinterfaces) | Landing sections library for Figma. |
+| [UKO](https://ui-lib.com/downloads/uko-ui-figma-design-system?ref=uiinterfaces) | Free Figma dashboards & design system. |
+| [Lockscreen Tasks](https://www.figma.com/community/file/1057608352816733790/Lockscreen-Tasks?ref=uiinterfaces) | See your tasks list on your lock screen |
+| [Amounter](https://www.figma.com/community/plugin/1049715741730726129/Amounter?ref=uiinterfaces) | Figma plugin to generate properly formatted currencies. |
+| [Design Anatomy](https://run.gumroad.com/l/DesignAnatomy?ref=uiinterfaces) | Figma Design System Generator with root components. |
+| [Mini Photo Editor](https://www.figma.com/community/plugin/1068093559622021183/Mini-Photo-Editor?ref=uiinterfaces) | Quickly crop, rotate, flip, finetune, and redact images |
+| [Physical](https://www.figma.com/community/plugin/952689592792995578/Scribe?ref=uiinterfaces) | View your design at 100% physical scale. |
+| [Scribe](https://www.figma.com/community/plugin/952689592792995578/Scribe/Scribe---Dynamic-data-in-seconds?ref=uiinterfaces) | The mail merge for Figma for crafting data-driven graphics |
+| [Figment](https://figment.so/?ref=uiinterfaces) | Create a Website from any Figma design |
+| [Mesh Gradients](https://www.meshgradients.com/figma?ref=uiinterfaces) | Create awesome mesh gradients right in Figma |
+| [All Hands Figma Plugin](https://www.figma.com/community/plugin/951652764251042235/All-Hands-Mockup-Generator-%7C-MetaLab-x-Nappy?ref=uiinterfaces) | The easiest way to diversify your product mockups |
+| [Figit](https://www.getfigit.com/?ref=uiinterfaces) | Supercharge Your workflow |
+| [Automator for Figma](https://automator.design/?ref=uiinterfaces) | Automate your Figma tasks in one click |
+| [Figma Academy](https://www.figma.academy/?ref=uiinterfaces) | Learn advanced design tactics directly in Figma |
+
+
+## For Notion
+Discover a collection of resources exclusively for Notion users on UIInterfaces. Explore templates, integrations, and productivity tools designed to enhance your Notion experience.
+
+| Website | Description |
+| -------- | ------------------------- |
+| [Pintable](https://pintable.co/?ref=uiinterfaces) | Save people to Notion table with one click |
+| [Notion Insider](https://notioninsider.com/?ref=uiinterfaces) | Marketplace for Curated Notion Templates |
+| [Notion Integration for Specify](https://specifyapp.com/?ref=uiinterfaces) | Automate your design system documentation |
+| [Job Hunt Notion Template](https://aouab.gumroad.com/l/otqxi?ref=uiinterfaces) | From chaos to clarity- your job search made simple |
+| [emaillist.app](https://www.emaillist.app/?ref=uiinterfaces) | Capture emails on Notion with stunning landing pages |
+| [Notion Plus Widget](https://notionplus.dev/landing?ref=uiinterfaces) | Notion Widget Tool |
+| [Notion Online Resource Manager](https://rfqsen.gumroad.com/l/pzshyc?ref=uiinterfaces) | Notion-based organizer for your saved links & resources |
+| [Habits+](https://notesbyhugh.gumroad.com/l/habit?ref=uiinterfaces) | Automated habit template for Notion |
+| [Notion Job Applications Tracker (Free)](https://prodactivate.gumroad.com/l/qmayq?ref=uiinterfaces) | From chaos to clarity- your job search made simple |
+| [The Notion Bible](https://image.typedream.com/cdn-cgi/image/width=144,height=144,quality=100,fit=crop/https://api.typedream.com/v0/document/public/8ce6513d-9bd9-4a8d-9934-1c82912d5965/2OpFTzoECqWvkEfMnsiDqYM96St_Untitled_design_27_.png?ref=uiinterfaces) | Become a Notion expert. |
+| [Habits Tracker](https://bynicholash.gumroad.com/l/HabitsTracker?ref=uiinterfaces) | Make habits second nature |
+| [35+ Notion Marketplaces](https://notionmaestro.gumroad.com/l/35-plus-notion-marketplaces?ref=uiinterfaces) | Discover Notion Marketplaces to Buy and Sell your Templates. |
+| [Second Mind](https://processized.gumroad.com/l/secondmind?ref=uiinterfaces) | Organize your work & life and make progress on your goals |
+| [Creator Compass](https://jumicreative.com/creatorcompass/?ref=uiinterfaces) | Notions best planning and tracking tool for content creators |
+| [Notion Second Brain](https://www.notionway.com/products/notion-second-brain?ref=uiinterfaces) | Organize your entire life with Notion |
+| [Productivity Bundle](https://poonamsharma.gumroad.com/l/skzpz?layout=profile?ref=uiinterfaces) | Boost your productivity 10x by using this bundle |
+| [GTD Dashboard 3.0](https://www.gettingthingsdone.so/?ref=uiinterfaces) | Implement GTD Method in Notion |
+| [Notion Creator Guide](https://ireem.gumroad.com/l/UNTCG?ref=uiinterfaces) | The ultimate Notion creator guide: - from idea to launch |
+| [Life Planner 2.0](https://poonamsharma.gumroad.com/l/blabj?ref=uiinterfaces) | Create a more organized life with Notion Life Planner 2.0 |
+| [Notion 95](https://www.goodjobmgmt.com/free-notion-template?ref=uiinterfaces) | Free Windows 95 Inspired Notion Template |
+| [Paperr](https://paperr.site/?ref=uiinterfaces) | Blazing fast, SEO-friendly blog in minutes |
+| [Notion Minutes Meeting](https://hyeukiyo.gumroad.com/l/MinMee?ref=uiinterfaces) | Essence for your meetings |
+| [Eve.](https://notesbyhugh.gumroad.com/l/eve?ref=uiinterfaces) | AI powered second brain for Notion |
+| [Notion Ultimate Content System](https://www.notionway.com/products/notion-ultimate-content-system?ref=uiinterfaces) | Create and plan quality content from one place |
+| [Upnext for Notion](https://www.getupnext.com/?ref=uiinterfaces) | Save anything, and actually get to it later |
+| [The Best Notion Widgets by Plus](https://www.plusdocs.com/notion-widgets?ref=uiinterfaces) | 50+ curated Notion widgets to create the perfect workspace |
+| [Digital Brain Notion](https://getdigitalbrain.typedream.app/?ref=uiinterfaces) | The ultimate productivity system for high - performers. |
+| [Ultimate Product Management OD](https://productmanagement.typedream.app/?ref=uiinterfaces) | All in One space for Team Leads to manage their workspace. |
+| [Passwords Vault](https://9to5notion.gumroad.com/l/passwords-vault?ref=uiinterfaces) | Store all your user ID, emails & passwords in Notion |
+| [Design System OS](https://www.designsystemos.com/?ref=uiinterfaces) | The design system companion for Notion |
+| [Hints – Notion AI Assistant](https://hints.so/notion-templates?ref=uiinterfaces) | Control Notion workspace from your messaging app |
+| [Task Finisher](https://karelkozielek.gumroad.com/l/taskfinisher?layout=profile?ref=uiinterfaces) | Working with tasks has never been easier |
+| [Super 3.0](https://super.so/?ref=uiinterfaces) | Create websites with Notion |
+| [500+ ChatGPT Prompt Templates](https://theveller.gumroad.com/l/ChatGPTPromptTemplates-byTheVeller?ref=uiinterfaces) | Break through creative blocks & get things done in a flash |
+| [Second Brain for Creatives](https://espinosa.gumroad.com/l/second-brain?ref=uiinterfaces) | All-in-one creative database for creators |
+| [Aesthetic Notion Budget and Subscription Tracker](https://philippstelzel.gumroad.com/l/aethetic-budget-template?ref=uiinterfaces) | Effortlessly track your spending with this Notion template |
+| [StudentHub+ for Notion](https://danatplus.gumroad.com/l/studenthub?ref=uiinterfaces) | Free Notion template for students |
+| [Sidebird](https://www.sidebird.io/?ref=uiinterfaces) | Notion to Twitter thread - instantly |
+| [Notebook Manager](https://iamsourabhshen.gumroad.com/l/notebook_manager?ref=uiinterfaces) | Manage all your notes in beautiful and minimal notebooks |
+| [Content Operating System](https://www.contentoperatingsystem.com/?ref=uiinterfaces) | Create content 2x faster, with Notion |
+| [Notion Ultimate Life Planner](https://www.notionway.com/products/notion-ultimate-life-planner?ref=uiinterfaces) | Plan and achieve your goals effortlessly |
+| [325 ChatGPT Email Marketing Prompts Pack](https://pascio.gumroad.com/l/emailprompts?ref=uiinterfaces) | Use ChatGPT to become a top 1% email marketer |
+| [Notion Cover Generator](https://notioncovergenerator.com/?ref=uiinterfaces) | Supercharge your Notion cover images |
+| [300+ Notion Resources Pack](https://iamsourabhshen.gumroad.com/l/notion_resource_pack?ref=uiinterfaces) | Unleash power of Notion with repository of 300+ resources |
+| [Idea Spark](https://abdulrafay.gumroad.com/l/ideaspark?ref=uiinterfaces) | The ultimate resource for brainstorming and idea generation |
+| [Invoice Dashboard by Notion and Figma](https://karimsaif.gumroad.com/?ref=uiinterfaces) | Develop yourself in UI/UX design |
+| [Gamification OS](https://theveller.gumroad.com/l/GamificationOS-byTheVeller?ref=uiinterfaces) | Turn your digital workspace into an enjoyable game. |
+| [Creator Notion Pack](https://creatornotionpack.com/?ref=uiinterfaces) | Your digital planner for a creative life in Notion |
+| [Notion Finance Tracker 2.0](https://www.easlo.co/finance-tracker?ref=uiinterfaces) | All-in-one dashboard for better financial management |
+| [Notion Content Calendar](https://wenotltd.gumroad.com/l/content-calendar?ref=uiinterfaces) | Take your socials to the next level |
+| [People to Notion](https://www.peopletonotion.com/?ref=uiinterfaces) | Add LinkedIn profiles to Notion in one click |
+| [Notion Resolution Board 2.0](https://www.easlo.co/resolution?ref=uiinterfaces) | All-in-one dashboard to crush your 2023 goals |
+| [Notion AI](https://www.notion.so/product/ai?ref=uiinterfaces) | Meet your new partner in thought |
+| [The Notion Tools Hub](https://www.cooltools.tech/lovely-notion-resources?ref=uiinterfaces) | Integrations and tools hub that Notion should have built |
+| [SlashDreamer](https://slashdreamer.com/?ref=uiinterfaces) | Use AI to generate images in Notion |
+| [insertnotion](https://www.insertnotion.com/?ref=uiinterfaces) | Embed your Notion boards to any webpage |
+| [Slides Builder for Notion](https://jonathansabbah.com/slides-builder?utm_source=product_hunt?ref=uiinterfaces) | Always up-to-date slides, 100% in Notion |
+| [Potion](https://potion.so/?ref=uiinterfaces) | Create custom websites in minutes, all on Notion |
+| [Notion Icons 2.0](https://vyshnav.xyz/blog/notion-icons-2-0?ref=uiinterfaces) | Create a more vibrant and modern workspace |
+| [Worksuite Notion Template](https://sidharthnegi.gumroad.com/l/worksuite?ref=uiinterfaces) | All in one ultimate worksuite notion template |
+| [Notion Easy Freelance Workspace](https://jolortegui-.gumroad.com/l/HsEfS?ref=uiinterfaces) | Organise your freelance work and projects in Notion |
+| [Daily Planner](https://thedailyplanner.gumroad.com/l/plan-the-day?ref=uiinterfaces) | 7 days daily planner in Notion |
+| [WidgetBox](https://widgetbox.app/?ref=uiinterfaces) | Customizable widgets for your Notion pages |
+| [UI & UX Checklist](https://zampzamp.gumroad.com/l/ui_ux_checklist?ref=uiinterfaces) | Learn, practice & check UI UX laws on a Notion template |
+| [Notion Portfolio](https://dixmilleheures.notion.site/dixmilleheures/Notion-Portfolio-Template-de2b56977486435e8e2f77bdc93574ee?ref=uiinterfaces) | Create a professional portfolio using Notion |
+| [Document Kit for PM & UI/UX Designer](https://tsolution.gumroad.com/l/doc-kit?ref=uiinterfaces) | All-in-one Notion template for building products |
+| [Notion Library](https://www.prototion.com/notion-dashboard/Notion-Library-OV4tljyybSiono8r?ref=uiinterfaces) | Notion template to save and organize books |
+| [Video Game Library](https://www.buymeacoffee.com/bryceallen/e/36700?ref=uiinterfaces) | Notion template to level up your video game library |
+| [Notions Plants Manager](https://thomassanlis.gumroad.com/l/CDgAIG?ref=uiinterfaces) | Manage your plants in Notion and never forget to water them! |
+| [Edition](https://www.edition.so/?ref=uiinterfaces) | No-code publishing platform with the ease of Notion |
+| [Notion Journal](https://easlo.gumroad.com/l/eGHsEB?ref=uiinterfaces) | The best digital journal for life |
+| [Product OS](https://product-os-notion.com/?utm_source=producthunt&utm_medium=social?ref=uiinterfaces) | Notion workspace for product and tech teams |
+| [Notion Web Designer Hub](https://www.flux-academy.com/resources/notion-freelance-hub?ref=uiinterfaces) | All-in-one hub for managing your web design projects |
+| [Landing Page Builder for Notion](https://lp-builder-notion.com/?utm_source=producthunt&utm_medium=social?ref=uiinterfaces) | Build webpages in Notion. Without design skills. |
+| [Product HQ](https://theproducthq.com/?ref=uiinterfaces) | Notion dashboard to ideate, source, and order your product |
+| [Feedback Lane](https://feedbacklane.com/?ref=uiinterfaces) | A website feedback widget powered by Notion |
+| [Noto](https://abstractlab.gumroad.com/l/noto-avatar?ref=uiinterfaces) | Create a Notion-style avatar with 120+ mix-and-match items |
+| [Make Work Fun](https://www.makework.fun/?ref=uiinterfaces) | Gamify Notion workspaces and celebrate your personal wins |
+| [The Super Builder](https://super.so/builder?ref=uiinterfaces) | A drag-and-drop landing page builder for Notion |
+| [Sidedrive](https://sidedrive.app/?ref=uiinterfaces) | Google Drive with Notion's sidebar |
+| [Slideit](https://heyslideit.com/?ref=uiinterfaces) | Save Tweets to Notion automatically |
+| [Maze Question Bank](https://maze.co/blog/maze-question-bank/?ref=uiinterfaces) | A Notion database of 350+ questions for rapid UX research |
+| [Project Plan Notion Template](https://pixeltie.gumroad.com/l/ePGkX?ref=uiinterfaces) | Notion template that helps you build effective project plans |
+| [Community OS](https://www.threado.com/communityos?ref=uiinterfaces) | 800+ community resources and Notion workbook for free |
+| [Notion Ultimate Subscription System](https://ireem.gumroad.com/l/NotionUSM?ref=uiinterfaces) | You will never pay for a subscription you don't need again |
+| [Top 30 Breakout Apps for 2022](https://top30.app/?ref=uiinterfaces) | Discover the next Notion, Figma & Calendly before the world |
+| [NotionForms](https://notionforms.io/?ref=uiinterfaces) | Simple and beautiful form builder for Notion |
+| [Notion Freelancer OS](https://www.notionfreelance.com/?ref=uiinterfaces) | Manage and grow your freelance business in Notion. |
+| [Simple.ink](https://www.simple.ink/?ref=uiinterfaces) | Build websites with Notion in ~10 sec |
+| [Prototion](https://www.prototion.com/?ref=uiinterfaces) | Notion’s Best Handcrafted Templates |
+| [Notion Resource Pack](https://easlo.gumroad.com/l/nrpack?ref=uiinterfaces) | Explore 100+ resources for Notion |
+
+## Frameworks
+UIInterfaces provides a variety of frameworks to streamline your web development process.
+
+| Website | Description |
+| -------- | ------------------------- |
+| [Microsoft Fluent UI](https://developer.microsoft.com/en-us/fluentui#/?ref=uiinterfaces) | Collection of UX frameworks from Microsoft|
+| [UI Kitten](https://akveo.github.io/react-native-ui-kitten/?ref=uiinterfaces) | UI Kitten is React Native framework for creating stunning cross-platform mobile applications. Design system based, brings your product from MVP to enterprise.|
+| [Magnus UI](https://magnus-ui.com/?ref=uiinterfaces) | Magnus UI is the ultimate UI framework that helps you in building consistent user interfaces effortlessly in react native|
+| [Vuesax](https://vuesax.com/?ref=uiinterfaces) | Unique and reusable UI components|
+| [Inkline](https://www.inkline.io/?ref=uiinterfaces) | Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications|
+| [Quasar](https://quasar.dev/?ref=uiinterfaces) | High-performance Material Design component suite with builders for SPA, SSR, PWA, Mobile (Cordova & Capacitor), Desktop (Electron) and Browser extensions|
+| [UnoCSS](https://unocss.dev/?ref=uiinterfaces) | UnoCSS is the instant atomic CSS engine, that is designed to be flexible and extensible. The core is un-opinionated, and all the CSS utilities are provided via presets.|
+| [BeerCSS](https://www.beercss.com/?ref=uiinterfaces) | Build Material Design interfaces in record time, without stress for devs. The first CSS framework that implements Material Design 3. |
+| [Pico.css](https://picocss.com/?ref=uiinterfaces) | Elegant styles for all natives HTML elements without .classes and dark mode automatically enabled. |
+| [twind](https://twind.dev/?ref=uiinterfaces) | The smallest, fastest, most feature complete tailwind-in-js solution in existence|
+| [flowrift](https://flowrift.com/c/banner?ref=uiinterfaces) | Flowrift is a library made of beautifully designed Tailwind CSS UI blocks.|
+| [Raster Simple Grid System](https://rsms.me/raster/?ref=uiinterfaces) | Minimal and straight-forward CSS grid system utilizing descriptive HTML rather than semantic CSS. |
+| [Axentix](https://useaxentix.com/?ref=uiinterfaces) | Axentix is an open source Framework based on CSS Grid using HTML, CSS and JS. |
+| [Sakura](https://oxal.org/projects/sakura/?ref=uiinterfaces) | A minimal classless css framework / theme.  |
+| [Terminal CSS](https://terminalcss.xyz/?ref=uiinterfaces) | A modern and minimal CSS framework for terminal lovers.  |
+| [Bojler](https://bojler.slicejack.com/?ref=uiinterfaces) | Bojler is an email framework for developing responsive and lightweight email templates that will render correctly across each of the most popular email clients. |
+| [Cirrus CSS](https://cirrus-ui.netlify.app/?ref=uiinterfaces) | A component and utility centric SCSS framework designed for rapid prototyping. |
+| [Windi CSS](https://windicss.org/?ref=uiinterfaces) | Next generation compiler for Tailwind CSS |
+| [latex.css](https://latex.vercel.app/?ref=uiinterfaces) | Make your website look like a LaTeX document |
+| [css-doodle](https://css-doodle.com/?ref=uiinterfaces) | A web component for drawing patterns with CSS |
+| [Metro 4](https://korzh.com/metroui?ref=uiinterfaces) | Create your site quickly and effectively with Metro 4. impressive components library built on html, css, javascript. |
+| [Halfmoon UI](https://www.gethalfmoon.com/?ref=uiinterfaces) | A responsive and lightweight framework, designed for quickly building beautiful dashboards and product pages. |
+| [Material Bootstrap](https://mdbootstrap.com/docs/standard/?ref=uiinterfaces) | Material Design with Bootstrap |
+| [Tachyons](https://tachyons.io/?ref=uiinterfaces) | Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible. |
+| [imagehover.io](http://imagehover.io/?ref=uiinterfaces) | Pure CSS Image Hover Effect Library |
+| [Hint.css](https://kushagra.dev/lab/hint/?ref=uiinterfaces) | A pure CSS tooltip library for your lovely websites. |
+| [Framework7](https://framework7.io/?ref=uiinterfaces) | Framework7 - is a free and open source framework to develop mobile, desktop or web apps with native look and feel. |
+| [XP.css](https://botoxparty.github.io/XP.css/?ref=uiinterfaces) | XP.css is an extension of 98.css. A CSS library for building interfaces that look like old UIs. |
+| [Cutestrap](https://www.cutestrap.com/?ref=uiinterfaces) | A strong, independent CSS Framework. |
+| [Turret CSS](https://turretcss.com/?ref=uiinterfaces) | Turret CSS is a styles framework for development of responsive websites. |
+| [MVP.css](https://andybrewer.github.io/mvp/?ref=uiinterfaces) | A minimalist stylesheet for HTML elements. No class names, no frameworks, just semantic HTML and you're done |
+| [Shoelace.css](https://shoelace.style/?ref=uiinterfaces) | Lightweight, forward-thinking CSS library built with future CSS syntax |
+| [NES CSS](https://nostalgic-css.github.io/NES.css/?ref=uiinterfaces) | NES-style CSS Framework |
+| [98.css](https://jdan.github.io/98.css/?ref=uiinterfaces) | A design system for building faithful recreations of old UIs |
+| [W3.CSS](https://www.w3schools.com/w3css/?ref=uiinterfaces) | A modern CSS framework with support for desktop, tablet, and mobile design by default. Designed to be independent of jQuery or any other JavaScript library |
+| [Blueprint CSS](https://blueprintcss.dev/?ref=uiinterfaces) | A lightweight layout library for building great responsive mobile first UIs that work everywhere |
+| [Wing](https://kbrsh.github.io/wing/?ref=uiinterfaces) | A beautiful CSS framework designed for minimalists |
+| [Picnic CSS](https://picnicss.com/?ref=uiinterfaces) | Lightweight and beautiful library |
+| [Spectre CSS](https://picturepan2.github.io/spectre/?ref=uiinterfaces) | Lightweight, modern CSS framework |
+| [Vanilla Framework](https://vanillaframework.io/?ref=uiinterfaces) | Simple, extensible CSS framework written in Sass |
+| [Milligram.io](https://milligram.io/?ref=uiinterfaces) | Minimalist CSS framework |
+| [Susy](https://www.oddbird.net/susy/?ref=uiinterfaces) | Lightweight, grid-layout engine for Sass |
+| [UIKit](https://getuikit.com/?ref=uiinterfaces) | Lightweight and modular front-end framework |
+| [Pure CSS](https://purecss.io/?ref=uiinterfaces) | A set of small, responsive CSS modules |
+| [Foundation](https://get.foundation/?ref=uiinterfaces) | Mobile first framework with clean markup |
+| [Fomantic UI](https://fomantic-ui.com/?ref=uiinterfaces) | A community fork of Semantic-UI |
+| [Semantic UI](https://semantic-ui.com/?ref=uiinterfaces) | Empowers designers and developers by creating a shared vocabulary for UI |
+| [Uniform CSS](https://uniformcss.com/?ref=uiinterfaces) | Fully configurable utility generator and CSS framework built entirely in Sass |
+| [Skeleton](http://getskeleton.com/?ref=uiinterfaces) | Extremely light framework for basic UI elements |
+| [Bulma](https://bulma.io/?ref=uiinterfaces) | Modern CSS framework with no JS. |
+| [Material Design Lite](https://getmdl.io/?ref=uiinterfaces) | Light framework based on Material Design. No JS dependency |
+| [Materialize](https://materializecss.com/?ref=uiinterfaces) | A modern responsive front-end framework based on Material Design |
+| [Bootstrap](https://getbootstrap.com/?ref=uiinterfaces) | Popular UI framework with tons of components that use both CSS and JS |
+| [Tailwind CSS](https://tailwindcss.com/?ref=uiinterfaces) | Low level, utility-first framework |
+
+## Generators
+UIInterfaces provides a variety of generators to spark your creativity and streamline your design process.
+
+| Website | Description |
+| -------- | ------------------------- |
+| [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/?ref=uiinterfaces) | Create a set of lush, realistic CSS shadows. |
+| [Faux](http://knutsynstad.com/fauxcode/?ref=uiinterfaces) | Turn real code into faux code,Faux Code Generator |
+| [Bootstrap Vue](https://bootstrap-vue.org/?ref=uiinterfaces) | Use Bootstrap components with Vue |
+| [Tabbied](https://tabbied.com/?ref=uiinterfaces) | Create and customize minimally generated patterns/artwork to use for background images, print and other projects. |
+| [BGjar](https://bgjar.com/?ref=uiinterfaces) | Free svg background generator for your websites, blogs and app. |
+| [SVG wave](https://svgwave.in/?ref=uiinterfaces) | A free, & customizable gradient SVG wave generator for UI designs |
+| [Notionsmith](https://notionsmith.ai/?ref=uiinterfaces) | Generate UX personas for your product in 20 seconds |
+| [Iconify](https://www.iconifyai.com/?ref=uiinterfaces) | Create beautiful app icons with AI |
+| [ColorpaletteAI](https://colorpalette-ai.com/?ref=uiinterfaces) | Generate color palettes from website descriptions. |
+| [Tailwind Grid Generator](https://www.tailwindgen.com/?ref=uiinterfaces) | Simple tool to generate Tailwind CSS grids |
+| [Namefinder.ai](https://www.namefinder.ai/?ref=uiinterfaces) | Free GPT-4 powered business & domain name generator |
+| [flowlist.io](https://www.flowlist.io/?ref=uiinterfaces) | An AI powered assistant to manage ideas and tasks |
+| [Peach App](https://peach.self.team/?ref=uiinterfaces) | A new tool for your great pitches |
+| [Favicon Generator](https://www.favicon.software/?ref=uiinterfaces) | Generate favicons & manifest file for your site/PWA |
+| [Lazy Hunt](https://lazyhunt.com/?ref=uiinterfaces) | Like Product Hunt but AI does your branding |
+| [Butternut AI Beta](https://butternut.ai/?ref=uiinterfaces) | Build websites instantly using generative AI |
+| [Business Idea Generator AI](https://business-generator.vercel.app/?ref=uiinterfaces) | Generate business ideas with AI |
+| [Riter.app](https://riter.app/?ref=uiinterfaces) | Generate UX copy, design descriptions and more with ChatGPT |
+| [Cover Letter Generator](https://www.coverletter.tools/?ref=uiinterfaces) | Leverage ChatGPT to generate personalized cover letters |
+| [Jema.ai](https://jema.ai/?ref=uiinterfaces) | The open source Jasper.ai alternative |
+| [AI Suggests](https://ai-suggests.com/?ref=uiinterfaces) | Virtual content AI assistant for creators |
+| [AI Course Creator](https://minicoursegenerator.com/ai-assistant/?ref=uiinterfaces) | The only AI solution that creates a complete mini-course |
+| [luw.ai](https://luw.ai/?ref=uiinterfaces) | Get creative ideas from your AI persona |
+| [Graphy Lite](https://graphy.app/?ref=uiinterfaces) | The best way to create & share charts on the internet |
+| [AutoSlide](https://autoslide.ai/?ref=uiinterfaces) | AI-powered platform to generate stunning presentations |
+| [Decktopus AI](https://www.decktopus.com/?ref=uiinterfaces) | Your on-demand presentation generator |
+| [AI SEO Outlines](https://aiseooutlines.com/?ref=uiinterfaces) | Generate SEO article outlines with AI |
+| [Meta Tag Generator](https://techcopes.com/meta-tag-generator?ref=uiinterfaces) | Effortlessly create tags that attract, engage and rank |
+| [Motionit](https://www.motionit.ai/?ref=uiinterfaces) | Generate stunning Google Slides with AI |
+| [Podcast Name Generator](https://podcast-name-generator.spotify.com/?ref=uiinterfaces) | Push the button, generate a podcast name |
+| [M2 Wallpaper Generator](https://more.graphics/m2-wallpapers?ref=uiinterfaces) | Generate new M2 wallpapers for your screen in HD, 4K |
+| [RePassword Generator](https://www.repasswordgenerator.com/?ref=uiinterfaces) | The easiest way to generate secure and unique passwords |
+| [Copygen](https://www.copygen.xyz/?ref=uiinterfaces) | Quickly create product & ad copies from any product links |
+| [AI Project Description Generator](https://www.welovenocode.com/ai-project-description-generator?ref=uiinterfaces) | Generate project description and build your stack using AI |
+| [User Persona](https://userpersona.dev/?ref=uiinterfaces) | Generate comprehensive user personas with the help of AI |
+| [ChatBCG: Generative AI for Slides](https://www.chatba.com/?ref=uiinterfaces) | Create Slides Instantly with AI Text-to-PowerPoint |
+| [PatternedAI](https://www.patterned.ai/?ref=uiinterfaces) | Generate Seamless Patterns with AI |
+| [WallCraft](https://www.wallcraft.app/?ref=uiinterfaces) | Generate Wallpapers and Patterns with Minecraft Icons |
+| [TextureLab](https://www.texturelab.xyz/?ref=uiinterfaces) | AI-Powered 3D texture generator for games creator |
+| [A.I. Holiday Card Generator](https://designstripe.com/ai-cards/?ref=uiinterfaces) | Use A.I. to make a 100% unique holiday card |
+| [Photoshot](https://photoshot.app/?ref=uiinterfaces) | An open-source AI avatar generator |
+| [Reportly](https://reportly.page/?ref=uiinterfaces) | PDF designer for Notion, Airtable & Coda |
+| [CandyIcons](https://www.candyicons.com/?ref=uiinterfaces) | Discover beautiful AI-generated app icons for your products |
+| [aaabstract](https://fffuel.co/aaabstract/?ref=uiinterfaces) | Wavy background maker |
+| [Hexagon Pattern Generator](https://more.graphics/hexagon-pattern?ref=uiinterfaces) | Generate beautiful patterns based on the symmetry of six |
+| [nnneon](https://fffuel.co/nnneon/?ref=uiinterfaces) | Make glowing SVG shapes |
+| [Union Avatars](https://tylify.app/?ref=uiinterfaces) | 3D realistic avatar maker with a single selfie |
+| [Tylify](https://tylify.app/?ref=uiinterfaces) | Create seamless patterns in seconds |
+| [Link transformer](https://tools.devapt.com/link-transformer?ref=uiinterfaces) | Transform links to plain text to share on any social media |
+| [dddynamite](https://fffuel.co/dddynamite/?ref=uiinterfaces) | Customizable decorative SVG shapes |
+| [Generative.fm](https://generative.fm/?ref=uiinterfaces) | Endlessly unique ambient music." |
+| [Avataaars Generator](https://getavataaars.com/?ref=uiinterfaces) | Free online avatar generator for anyone to make their beautiful personal avatar easily! |
+| [Fast Charts](https://fastcharts.io/?ref=uiinterfaces) | Generate charts from CSV. |
+| [CSS Hexagon Generator](https://brenna.github.io/csshexagon/?ref=uiinterfaces) | Generate your own pure CSS hexagons with box-shadow, border, and background image. |
+
+## Gradient Tools
+Discover a world of stunning gradients with UIInterfaces' gradient tools.
+
+| Website | Description |
+| -------- | ------------------------- |
+| [Haikei](https://app.haikei.app/?ref=uiinterfaces) | An awesome multishape web app.. |
+| [Eggradients](https://www.eggradients.com/?ref=uiinterfaces) | Gradient Background Colors with eggs. |
+| [CSS Gradient Editor](https://www.cssgradienteditor.com/?ref=uiinterfaces) | You may only need this tool for creating CSS gradient backgrounds and patterns. |
+| [Colorzilla](https://www.colorzilla.com/?ref=uiinterfaces) | A powerful online Photoshop-like CSS gradient editor |
+| [gradienta](https://gradienta.io/?ref=uiinterfaces) | A pure css and jpg gradients. |
+| [Gradients. app](https://gradients.app/en?ref=uiinterfaces) | Сreate gradients, palettes, color combinations & more. |
+| [Gradicol](https://gradicol.vercel.app/?ref=uiinterfaces) | Handpicked collection of linear gradients. |
+| [Tailwind CSS Gradient Generator](https://tailwindcomponents.com/gradient-generator/?ref=uiinterfaces) | Awesome Open-source Gradient Tool for Web Designers |
+| [Rayst Gradients](https://gradients.ray.st/?ref=uiinterfaces) | A collection of beautiful gradients generated by AI. |
+| [Gradientify](https://gradientify.com/?ref=uiinterfaces) | Find the perfect gradient for your next projects. |
+| [Ruri Gradiator](https://ruri.design/gradiator?ref=uiinterfaces) | Mini tools that boost your creativity |
+| [Mesh Gradient](https://meshgradient.com/?ref=uiinterfaces) | Create beautiful gradients right in your browser. |
+| [Digital Synopsis](https://digitalsynopsis.com/design/beautiful-color-gradients-backgrounds?ref=uiinterfaces) | Digital Synopsis showcases the best ideas in design, advertising and visual communication. |
+| [EggGradients](https://www.eggradients.com/?ref=uiinterfaces) | Ready to use gradient background colors. Cool Gradients are prepared according to the latest design trends. |
+| [Multicolor Gradients](https://gradienta.io/?ref=uiinterfaces) | Open-source multi-layered CSS gradients with JPG downloads. |
+| [Mesh Gradients Plugin](https://www.meshgradients.com/?ref=uiinterfaces) | Create awesome mesh gradients right inside of Sketch. |
+| [Gradient King](https://gradient-king.vercel.app/?ref=uiinterfaces) | Curated collection of 125+ fresh gradients. |
+| [ffflux](https://fffuel.co/ffflux?ref=uiinterfaces) | SVG generator for fluid gradient backgrounds |
+| [Gradientos](https://www.gradientos.app/?ref=uiinterfaces) | Find gradients easily |
+| [gggrain](https://fffuel.co/gggrain?ref=uiinterfaces) | SVG generator for grainy analog-feeling gradients |
+| [Design Gradients](https://www.designgradients.com/?ref=uiinterfaces) | Free gradients curated by designers to use anywhere you want |
+| [Mesh·y](https://meshy.uxie.io/?ref=uiinterfaces) | Generate custom beautiful mesh gradients |
+| [Grainients](https://www.weareheroes.digital/resources/grainients?ref=uiinterfaces) | Over 2000+ high resolution, grainy gradients |
+| [Colpic](https://colpic.netlify.app/gradients?ref=uiinterfaces) | Color and gradient picker |
+| [Slick Gradient](https://slick-gradient.vercel.app/?ref=uiinterfaces) | A curated collection of beautiful gradients. |
+| [TailwindCSS Gradients](https://launchoice.com/gradients?ref=uiinterfaces) | Collection of linear gradients made with TailwindCSS Classes |
+| [Colorffy](https://www.colorffy.com/gradients?ref=uiinterfaces) | Color gradients and palettes daily! |
+| [Cool Backgrounds](https://coolbackgrounds.io/?ref=uiinterfaces) | Cool Backgrounds is a collection of tools to create compelling, colorful images for blogs, social media, and websites. |
+| [Gradient Buttons](https://gradientbuttons.colorion.co/?ref=uiinterfaces) | Gradient buttons with hover effects. |
+| [Colorful Gradients](https://colorfulgradients.tumblr.com/?ref=uiinterfaces) | Gradients automatically created by a computer. 48 times daily. |
+| [Gradients Guru](https://gradientsguru.com/?ref=uiinterfaces) | 198 beautiful gradients and 15 Blend mode images effects, This cool & strong collection is created by Trionn Design's designers and it's totally free. |
+| [HTML Colors](https://htmlcolors.com/gradients?ref=uiinterfaces) | HTML Colors offers you our users most sophisticated Gradients. Take a look or create your unique gradient! |
+| [WebGradients](https://webgradients.com/?ref=uiinterfaces) | WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. |
+| [CSS Gradient](https://cssgradient.io/?ref=uiinterfaces) | As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile. |
+| [CoolHue 2.0](https://webkul.github.io/coolhue?ref=uiinterfaces) | Get coolest handpicked gradient colors collection palette for your next project, alternatively copy css or download as image too. |
+| [Mycolor Space](https://mycolor.space/gradient?ref=uiinterfaces) | Generate CSS gradients. |
+| [Gradient Hunt](https://gradienthunt.com/?ref=uiinterfaces) | Gradient Hunt is a free and open platform for color inspiration with thousands of trendy hand-made color gradients. |
+| [Mesh Gradients](https://products.ls.graphics/mesh-gradients?ref=uiinterfaces) | Free mesh gradient collection. |
+| [uiGradients](https://uigradients.com/#MonteCarlo?ref=uiinterfaces) | A handpicked collection of beautiful color gradients for designers and developers. |
+| [Grabient](https://www.grabient.com/?ref=uiinterfaces) | Beautiful and simple UI for generating web gradients. |
+
+## Handoff
+Simplify the design handoff process with UIInterfaces' handoff tools.
+
+| Website | Description |
+| -------- | ------------------------- |
+| [Relay](https://relay.material.io/?ref=uiinterfaces) | Instant handoff for Android UI |
+| [Merge by UXPin](https://www.uxpin.com/merge?ref=uiinterfaces) | UXPin Merge allows you to design with React components to achieve full consistency with the final product. |
+| [MockingBot](https://mockitt.wondershare.com/mockingbot-is-upgraded-to-mockitt.html?ref=uiinterfaces) | Free designers’ hands, meet developers’ needs. All from one click. |
+| [Inspect](https://www.invisionapp.com/product/feature/inspect?ref=uiinterfaces) | Better design and development collaboration |
+| [Zeplin](https://zeplin.io/?ref=uiinterfaces) | Handoff designs and styleguides with accurate specs, assets, code snippets—automatically. |
+| [Avocode](https://avocode.com/?ref=uiinterfaces) | Cross-platform design hand-off tool for design collaboration, version control, and inspecting of Sketch, XD, Photoshop, and Figma design files, on Windows, Linux, or macOS. |
+| [Specctr](https://specctr.com/cloud/home?ref=uiinterfaces) | Simplify your design to dev production with Specctr's new panel and new automated annotation features. |
+| [ZeroHeight](https://zeroheight.com/?ref=uiinterfaces) | Document your design system, together. Styleguides created by designers, extended by developers, and editable by everyone. |
+| [Uizard](https://uizard.io/?ref=uiinterfaces) | Transform your hand-drawn wireframes into digital design files and front-end code – automatically! |
+| [Yotako](https://yotako.io/?ref=uiinterfaces) | Your tool to translate design into code. |
+| [Sympli](https://sympli.io/?ref=uiinterfaces) | Enterprise-grade, integrated collaboration and workflow platform for building digital products. |
+| [Sketch Measure](https://github.com/utom/sketch-measure?ref=uiinterfaces) | Open source design handoff tool. |
+
+## HTML & CSS Templates
+Jumpstart your web design projects with UIInterfaces' HTML & CSS templates.
+
+| Website | Description |
+| -------- | ------------------------- |
+| [KeenThemes](https://keenthemes.com/?ref=uiinterfaces) | Free and Pro Html/Css3, Bootstrap5, Vue, React, Laravel templates |
+| [sitew](https://www.sitew.com/Designs-gratuits?ref=uiinterfaces) | Choose a free design to create your site.All templates are professional, customizable, mobile-friendly and allow website creation for free ! Choose one to start building your own website . |
+| [Horizon UI](https://horizon-ui.com/?ref=uiinterfaces) | Trendiest open source Admin Template for React |
+| [HTMLrev](https://htmlrev.com/?ref=uiinterfaces) | Free beautiful HTML5 templates and landing pages |
+| [Free HTML CSS Templates All Free Download](https://all-free-download.com/free-website-templates/free-html-css-templates.html?ref=uiinterfaces) | Download free-website-templates 2,502 files in .html .css .js format, css, templates, |
+| [W3css_templates](https://www.w3schools.com/w3css/w3css_templates.asp?ref=uiinterfaces) | Some responsive W3.CSS website templates for you to use. |
+| [Splawr](https://splawr.com/?ref=uiinterfaces) | Free web templates to kickstart your idea! |
+| [UIdeck](https://uideck.com/?ref=uiinterfaces) | Free Landing Page Templates and Bootstrap Themes |
+| [Cruip](https://cruip.com/free-templates/?ref=uiinterfaces) | Fully coded HTML templates to help you easily build your startup landing page without hassles. |
+| [Tooplate](https://www.tooplate.com/?ref=uiinterfaces) | Tooplate: Free HTML Templates for everyone! |
+| [W3Layouts](https://w3layouts.com/?ref=uiinterfaces) | W3Layouts: 3784+ Free Website Templates for 2020 |
+| [BootstrapMade](https://bootstrapmade.com/?ref=uiinterfaces) | Elegant, clean and beautiful free templates using Bootstrap. |
+| [BootstrapTaste](https://bootstraptaste.com/?ref=uiinterfaces) | Premium & Free Bootstrap Templates |
+| [Themes For App](https://themesfor.app/?ref=uiinterfaces) | Free Bootstrap themes and landing pages |
+| [Onepagelove](https://onepagelove.com/?ref=uiinterfaces) | One-page websites, templates and resources |
+| [Bootswatch](https://bootswatch.com/?ref=uiinterfaces) | Free themes for Bootstrap |
+| [Mobirise](https://mobirise.com/html-templates/?ref=uiinterfaces) | Great looking HTML5/CSS3 templates |
+| [Hubspot](https://www.hubspot.com/resources?ref=uiinterfaces) | Templates, infographics, banners and much more |
+| [Free CSS](https://www.free-css.com/free-css-templates?ref=uiinterfaces) | Huge collection of free templates |
+| [Colorlib](https://colorlib.com/wp/templates/?ref=uiinterfaces) | Colorlib offers the best in class website templates that are ready to use for any website. |
+| [HTML5xCSS3](https://www.html5xcss3.com/?ref=uiinterfaces) | Collection of wonderful templates in different categories |
+| [Zerotheme](https://www.zerotheme.com/?ref=uiinterfaces) | HTML5, Bootstrap, Prestashop templates |
+| [Start Bootstrap](https://startbootstrap.com/?ref=uiinterfaces) | Bootstrap starter themes |
+| [StyleShout](https://styleshout.com/free-templates/?ref=uiinterfaces) | Brilliantly crafted free website templates |
+| [FreeHTML5](https://freehtml5.co/?ref=uiinterfaces) | Free & premium HTML5 and Bootstrap themes |
+| [Templatemo](https://templatemo.com/?ref=uiinterfaces) | Minimal, resume, gallery themes and more |
+| [HTML5Up](https://html5up.net/?ref=uiinterfaces) | Very modern, unique responsive HTML5/CSS3 themes |
+
+## Icon Finders
+Discover an extensive collection of icons on UIInterfaces, designed to enhance your design projects.
+
+| Website | Description |
+| -------- | ------------------------- |
+| [appicon](https://www.appicon.co/?ref=uiinterfaces) | Quickly generate app icons in different sizes for your IOS, macOS and Android projects |
+| [IconSearch](https://iconsear.ch/search.html?ref=uiinterfaces) | Search engine with over 50,000 SVG icons indexed. |
+| [Emojiton](https://emojiton.com/?ref=uiinterfaces) | AI Emoji Search engine with any word in any language. |
+| [3D illustrations](https://iconscout.com/3ds?ref=uiinterfaces) | Over 141,000 customizable 3D illustrations |
+| [SVG Repo](https://www.svgrepo.com/?ref=uiinterfaces) | 460,000+ open-licensed SVG vector and icons |
+| [Halloween icons, 3Ds & design assets](https://iconscout.com/halloween-design-assets?ref=uiinterfaces) | 45,000+ customizable Halloween assets for your designs. |
+| [Koloicons](https://www.koloicons.com/?ref=uiinterfaces) | SVG Icons in constant style - Koloicons. Thousands of free PNG icons. Download SVG and PNG. The same consistency. The same quality. |
+| [Shape](https://shape.so/?ref=uiinterfaces) | 36,500 icons and illustrations fully customizable |
+| [Emojipedia](https://emojipedia.org/?ref=uiinterfaces) | The emoji search engine. A fast emoji search experience with options to browse every emoji by name, category, or platform. |
+| [SVG Gobbler](https://www.svggobbler.com/?ref=uiinterfaces) | SVG Gobbler is a browser extension that finds the vector content on the page you're viewing and gives you the option to download, optimize, copy, view the .... |
+| [Iconscout](https://iconscout.com/icons?ref=uiinterfaces) | Download 3.6 Million+ high-quality free vector Icons. |
+| [Iconshock](https://www.iconshock.com/?ref=uiinterfaces) | The biggest bounty of professional icons to be found anywhere. Over 2 million icons: 400+ icon sets in more than 30 styles part of Unusual Minds. |
+| [Icons8](https://icons8.com/icons?ref=uiinterfaces) | Professional icons by the rockstar team to beautify your work. |
+| [Free Icon Shop](https://freeiconshop.com/?ref=uiinterfaces) | Download free icons for commercial use. All free icons can be downloaded for free for all project uses. Free icons can be downloaded in vector formats. |
+| [Smashicons](https://smashicons.com/?ref=uiinterfaces) | Smashicons is the world's largest and most complete icon set with over 207,996 icons for designers and developers. |
+| [Nucleo App](https://nucleoapp.com/app/?ref=uiinterfaces) | Use this web app to manage, customize and export all Nucleo icons. |
+| [To Icons](https://hans.gerwitz.com/projects/the-artificial/toicon/?ref=uiinterfaces) | Pixel-perfect vector icons with personality, free for your use. |
+| [Icon Store](https://iconstore.co/?ref=uiinterfaces) | A library of free vector icons for personal and commercial projects, designed by first-class designers. |
+| [iconmonstr](https://iconmonstr.com/?ref=uiinterfaces) | Free, monstrously big and continuously growing source of simple icons |
+| [IcoMoon](https://icomoon.io/app/#/select?ref=uiinterfaces) | Using IcoMoon you can easily search and download vector icons or generate fonts (icon fonts). This tool can also be used for icon set management. It can generate icon fonts, SVGs, PDFs, PNGs and sprites. |
+| [Flaticon](https://www.flaticon.com/?ref=uiinterfaces) | Access +6.8M vector icons & stickers |
+| [Iconfinder](https://www.iconfinder.com/?ref=uiinterfaces) | Iconfinder is the leading search engine and market place for vector icons in SVG, PNG, CSH and AI format. |
+| [Noun Project](https://thenounproject.com/?ref=uiinterfaces) | Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos. |
+
+## Icon Sets
+Explore UIInterfaces' vast selection of icon sets, curated to enhance your design projects.
+
+| Website | Description |
+| -------- | ------------------------- |
+| [SVG wave](https://svgwave.in/?ref=uiinterfaces) | A free, & customizable gradient SVG wave generator for UI designs |
+| [HiClipart](https://www.hiclipart.com/?ref=uiinterfaces) | A community for designers to share & download transparent background PNG cliparts |
+| [Lukaszadam](https://lukaszadam.com/?ref=uiinterfaces) | Free Illustrations, SVG Icon Packages, and Engaging Content |
+| [PNGTree](https://pngtree.com/free-vectors?ref=uiinterfaces) | png, backgrounds, templates, text effects |
+| [React Icons](https://react-icons.github.io/react-icons/?ref=uiinterfaces) | An Open Source and free Svg Icon Library, it is a collection of your favorite icon libraries like Font Awesome and Material Icons to provide you with a wide range of SVG icons to choose from. |
+| [Mobirise Icons](https://mobiriseicons.com/?ref=uiinterfaces) | A free, open source set of 150 elegant, pixel-perfect linear icons, available as web icon font and SVG icons. |
+| [Linea Icon](https://linea.io/?ref=uiinterfaces) | Linea: Featuring 750+ Free Icons |
+| [Jam Icons](https://jam-icons.com/?ref=uiinterfaces) | 890+ handcrafted icons to make your web app awesome. |
+| [pixeden](https://themes-pixeden.com/font-demos/7-stroke/index.html?ref=uiinterfaces) | 202 thin stroke icons inspired by iOS 7. |
+| [Weather Icons](https://erikflowers.github.io/weather-icons/?ref=uiinterfaces) | Weather Icons is the only icon font with 222 weather themed icons. |
+| [Devicon](https://devicon.dev/?ref=uiinterfaces) | Devicon is a set of icons representing programming languages, designing & development toolsDevicon is a set of icons representing programming languages, designing & development tools. |
+| [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html?ref=uiinterfaces) | The icon font from Visual Studio Code. |
+| [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html?ref=uiinterfaces) | Material design icon font. |
+| [Icofont](https://icofont.com/?ref=uiinterfaces) | 2100+ free icons to spice up your creative designs. |
+| [Zurb Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3?ref=uiinterfaces) | Customizable Foundation icons. |
+| [Line Awesome](https://icons8.com/line-awesome?ref=uiinterfaces) | Swap in replacement of Font Awesome with modern line icons. |
+| [Unicorn Icons](https://unicornicons.com/?ref=uiinterfaces) | 100+ customizable playful animated icons. Available in JSON and SVG format. |
+| [Emoji Guide](https://emojiguide.org/?ref=uiinterfaces) | The collection of 3300 emojis with their HTML codes for easy use. |
+| [IconsDb](https://www.iconsdb.com/?ref=uiinterfaces) | Free Custom Icons |
+| [Iconspedia](https://www.iconspedia.com/?ref=uiinterfaces) | Iconspedia is a website that contains a large collection of high quality free icons. |
+| [Shitty Icons](https://shittyicons.com/#/?ref=uiinterfaces) | Collection of Free icons. |
+| [Lucide](https://lucide.dev/?ref=uiinterfaces) | Lucide is an open-source icon library, a fork of Feather Icons. |
+| [Teeny Icons](https://teenyicons.com/?ref=uiinterfaces) | TeenyIcons is a set icons in SVG format easy to use in html. |
+| [Phosphor Icons](https://phosphoricons.com/?ref=uiinterfaces) | Phosphor is a flexible icon family for interfaces, diagrams, presentations |
+| [Ionicons](https://ionic.io/ionicons/?ref=uiinterfaces) | Beautifully crafted open source icons for use in web, iOS, Android, and desktop apps. |
+| [Radix Icons](https://icons.radix-ui.com/?ref=uiinterfaces) | A crisp set of 15×15 icons designed by the Modulz team. All icons available as individual react component,SVG and more. |
+| [System UIcons](https://www.systemuicons.com/?ref=uiinterfaces) | 220+ icons in a growing collection. |
+| [Iconify Design](https://iconify.design/?ref=uiinterfaces) | Thousands of icons, one unified framework. One library, over 40,000 vector icons. |
+| [Convertio](https://convertio.co/png-svg/?ref=uiinterfaces) | Convert PNG icons to SVG online & free. (One of the services provided by it.) |
+| [appicon](https://www.appicon.co/?ref=uiinterfaces) | Quickly generate app icons in different sizes for your IOS, macOS and Android projects |
+| [Cryptoicons](http://cryptoicons.co/?ref=uiinterfaces) | A set of 430 crypto and fiat currency icons. Completely free. |
+| [Endless Icons](https://endlessicons.com/?ref=uiinterfaces) | A website offering a number of free icons. Icons are tagged and also compressed into kits. |
+| [Zondicons](https://www.zondicons.com/icons.html?ref=uiinterfaces) | A set of free premium SVG icons for you to use on your digital products. |
+| [css.gg](https://css.gg/?ref=uiinterfaces) | 700+ Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API |
+| [UseAnimations](https://useanimations.com/?ref=uiinterfaces) | Free Animated Icons in SVG and Json Format(for lottie) |
+| [Lordicon](https://lordicon.com/icons#free?ref=uiinterfaces) | 50 free animated interactive icons |
+| [Vivid.js](https://webkul.github.io/vivid/?ref=uiinterfaces) | Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
+| [Bootstrap Icons](https://icons.getbootstrap.com/?ref=uiinterfaces) | Free Icons built for Bootstrap but they'll work in any project. |
+| [Icon-icons.com](https://icon-icons.com/?ref=uiinterfaces) | Free Icons PNG, ICO, ICNS and Vector file SVG |
+| [Linear Icons](https://linearicons.com/free?ref=uiinterfaces) | 1000+ Ultra crisp vector icons |
+| [Xicons](https://www.xicons.org/#/?ref=uiinterfaces) | SVG Vue/React components integrated from fluentui-system-icons, ionicons, etc. (Vue3, Vue2, React, SVG). |
+| [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/?ref=uiinterfaces) | 8000+ free icons |
+| [UXWing](https://uxwing.com/?ref=uiinterfaces) | Well Optimized, Free icons for commercial use |
+| [Unicopy](https://unicopy.cc/?ref=uiinterfaces) | Easy-to-copy unicode characters and symbols |
+| [Flaticon](https://www.flaticon.com/?ref=uiinterfaces) | Access +6.8M vector icons & stickers |
+| [Lineicons](https://lineicons.com/?ref=uiinterfaces) | 8400+ handcrafted SVG icons for designers & developers. |
+| [Circum Icons Pro](https://circumicons.com/?ref=uiinterfaces) | Streamline your integration process with our powerful tools. |
+| [SVG . health](https://svg.health/?ref=uiinterfaces) | A finely crafted suite of icons for digital health. |
+| [Guidance – Wayfinding 2.0](https://www.streamlinehq.com/set/guidance?ref=uiinterfaces) | 360 vector icons for wayfinding - free and open source. |
+| [Slim Icons](https://slimicons.com/?ref=uiinterfaces) | Free and open source icon library featuring 100+ icons. |
+| [Tech icons](https://techicons.dev/?ref=uiinterfaces) | Download, copy and paste tech icons for your projects. |
+| [The Wolf Kit Social Icons (Free)](https://www.figma.com/community/file/1203393186896008602/The-Wolf-Kit-Social-Icons-(Community)?ref=uiinterfaces) | Get 180 Social Icons in 6 Styles for Figma for Free. |
+| [Notion Icons](https://www.overflow.design/ni.html?ref=uiinterfaces) | The largest Notion-style icon library with 1100+ icons. |
+| [Atlas Icons](https://atlasicons.vectopus.com/?ref=uiinterfaces) | 2,300 free, open source pixel perfect icons. |
+| [Circum Icons](https://circumicons.com/?ref=uiinterfaces) | Coherent open-source icon library for designers & developers. |
+| [Functions](https://futicons.com/?ref=uiinterfaces) | Icons for the future. |
+| [Basicons](https://basicons.xyz/?ref=uiinterfaces) | Basic icons for product design & development. |
+| [Atomicons](https://gcrwx.gumroad.com/l/atomicons?ref=uiinterfaces) | 100+ icons to better your screens. |
+| [Glyphs](https://x.withseismic.com/glyphs?ref=uiinterfaces) | A Remake of my favourite tool. |
+| [Dazzle UI Icon Library](https://dazzleui.pro/?ref=uiinterfaces) | Beautifully crafted UI icons, ready for your next project. |
+| [Premast](https://premast.com/deals/icons-for-every-possible-design?ref=uiinterfaces) | Premium icon pack for every possible design by Premast. |
+| [Sargam Icons](https://sargamicons.com/?ref=uiinterfaces) | 700+ open source icons for your exquisite designs |
+| [Circum](https://circumicons.com/?ref=uiinterfaces) | Consistent open source icons. |
+| [Humbleicons](https://humbleicons.com/?ref=uiinterfaces) | A pack of 223 simple, neutral, carefully crafted icons that you can use in your personal and commercial projects for free. |
+| [IconBrew](https://iconbrew.com/?ref=uiinterfaces) | A free and open source icon pack. With 280+ icons and new ones being added weekly. |
+| [Icons by Craftwork](https://icons.craftwork.design/?ref=uiinterfaces) | 500 open source icons in fill and stroke versions. 17 categories of use, universal minimalistic style, and vector shapes. For Figma. |
+| [Anicons](https://typogram.github.io/Anicons?ref=uiinterfaces) | Icon fonts with baked-in animation and colors. |
+| [Zwicon](https://www.zwicon.com/cheatsheet.html?ref=uiinterfaces) | Handcrafted iconset for your next project. |
+| [Quill](https://www.figma.com/community/file/1034432054377533052/Quill-Iconset?ref=uiinterfaces) | Quill is a 120+ iconset for your next email project. |
+| [Iconsax](https://iconsax.io/?ref=uiinterfaces) | Iconsax the official icons of the Vuesax framework. |
+| [Iconhub](https://iconhub.io/?ref=uiinterfaces) | Save your penny and time creating from scratch, use these diverse Icon set to complete your awesome design. |
+| [Icônes](https://icones.js.org/?ref=uiinterfaces) | Icon Explorer with Instant searching, powered by Iconify. |
+| [3dicons](https://3dicons.co/?ref=uiinterfaces) | Open source 3D icon library with over 1440+ icons. |
+| [Iconoir](https://iconoir.com/?ref=uiinterfaces) | Iconoir is one of the biggest open source libraries with currently 1017 SVG Icons. |
+| [Eva Icons](https://akveo.github.io/eva-icons/#?ref=uiinterfaces) | Eva Icons is a pack of more than 480 beautifafted Open Source icons. |
+| [Boxicons](https://boxicons.com/?ref=uiinterfaces) | Simple vector icons carefully crafted for designers & developers. |
+| [Ikonate](https://ikonate.com/?ref=uiinterfaces) | Fully customisable & accessible, well-optimised vector icons. |
+| [Remix Icons](https://remixicon.com/?ref=uiinterfaces) | All of the icons are free for both personal and commercial use. |
+| [Heroicons Dev](https://heroicons.dev/?ref=uiinterfaces) | Free and open source icons designed to make your website. |
+| [Tabler Icons](https://tabler-icons.io/?ref=uiinterfaces) | Free and open source icons designed to make your website or app attractive, visually consistent and simply beautiful. |
+| [Fontello](https://fontello.com/?ref=uiinterfaces) | Fontello is a web app that lists open source icon fonts, shows glyphs from them, allows you to select the icons you need from any font, and creates a new custom font from your selection. You can then use these custom font on your website. |
+| [CSS Icon Animate](https://cssicon.space/?ref=uiinterfaces) | Icon set made with pure css code, no dependencies, "grab and go" icons |
+| [MacOS Icon Gallery](https://www.macosicongallery.com/?ref=uiinterfaces) | Showcasing beautiful icon designs from the Mac App Store. |
+| [Icon 54](https://icon54.com/view-icons?ref=uiinterfaces) | 5,000 Vector Icons for iOS, Android, Websites & Apps. |
+| [Genericons Neue](https://genericons.com/?ref=uiinterfaces) | Generic looking icons, suitable for a blog or simple website. |
+| [Typicons](https://www.s-ings.com/typicons?ref=uiinterfaces) | Typicons are free-to-use vector icons embedded in a webfont for easy use in any UI, whether it be on the web or in a native app. |
+| [Picons](https://picons.me/?ref=uiinterfaces) | Vector Icons for iOS, Android, Websites & Apps. |
+| [Byte Size Icons](https://danklammer.com/bytesize-icons?ref=uiinterfaces) | Tiny style-controlled SVG iconset. |
+| [Github Octoicons](https://octicons.github.com/?ref=uiinterfaces) | Your project. GitHub's icons. |
+| [We Love Icon Fonts](https://weloveiconfonts.com/?ref=uiinterfaces) | Free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only). |
+| [Feather Icons](https://feathericons.com/?ref=uiinterfaces) | Simply beautiful open source icons. |
+| [Google Material Icons](https://fonts.google.com/icons?ref=uiinterfaces) | Material Symbols are our newest icons consolidating over 2,500 glyphs in a single font file with a wide range of design variants. |
+| [Icono](https://saeedalipoor.github.io/icono?ref=uiinterfaces) | Icono is an icon pack that needs no external resources. Every tag can be an icon made with pure CSS. |
+| [Unicons](https://iconscout.com/unicons?ref=uiinterfaces) | Pixel-perfect vector icons and Icon Font for your next project. |
+| [Svg Icon](https://leungwensen.github.io/svg-icon?ref=uiinterfaces) | An ultimate SVG icons collection done right. |
+| [Font Awesome](https://fontawesome.com/?ref=uiinterfaces) | Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators. |
+| [Simple Icons](https://simpleicons.org/?ref=uiinterfaces) | Free SVG icons for popular brands. |
+| [Evil Icons](https://evil-icons.io/?ref=uiinterfaces) | Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. |
+| [Material Design Icons](https://materialdesignicons.com/?ref=uiinterfaces) | Material Design Icons' growing icon collection allows designers and developers targeting various platforms to download icons in the format, color and size they need for any project. |
+| [Streamline Icons](https://www.streamlinehq.com/?ref=uiinterfaces) | Streamline 3.0 is out! 30,000 icons in three unique weights. 53 categories. 720 subcategories. The world's largest icon library. |
+| [Freepik](https://www.freepik.com/?ref=uiinterfaces) | Millions of Free Graphic Resources. ✓ Vectors ✓ Stock Photos ✓ PSD ✓ Icons ✓ All that you need for your Creative Projects. |
+
+## Illustrations
+Explore UIInterfaces' vast selection of icon sets, curated to enhance your design projects.
+
+| Website | Description |
+| -------- | ------------------------- |
+| [illustrations universe](https://illustrationsuniverse.com/?ref=uiinterfaces) | Get Inspiration from world’s best product illustrations |
+| [Heritage Library](https://www.heritagetype.com/pages/free-vintage-illustrations?ref=uiinterfaces) | Vintage Illustrations (vector and png) |
+| [Servier Medical Art](https://smart.servier.com/?ref=uiinterfaces) | 3000 free medical images to illustrate your publications and PowerPoint presentations |
+| [Delesign](https://delesign.com/free-designs/graphics/?ref=uiinterfaces) | A collection of free illustrations and more |
+| [Black Illustrations](https://www.blackillustrations.com/?ref=uiinterfaces) | Beautiful illustrations of black people (free and premium) |
+| [Stories by Freepik](https://storyset.com/?ref=uiinterfaces) | Awesome free customizable illustrations for your next project Customize, animate and download illustrations to make incredible landing pages, app or presentations! |
+| [Growwwkit illustrations](https://growwwkit.com/illustrations/phonies?ref=uiinterfaces) | A set of 8 simple, black & white, stylish illustrations. |
+| [Illlustrations](https://illlustrations.co/?ref=uiinterfaces) | Beautiful 100 Illustrations - png, svg |
+| [Lukaszadam](https://lukaszadam.com/?ref=uiinterfaces) | Free Illustrations, SVG Icon Packages, and Engaging Content |
+| [Smash](https://usesmash.com/?ref=uiinterfaces) | Awesome illustration constructor with colorful and trendy characters. |
+| [Dazzle illustrations](https://www.getillustrations.com/illustration-pack/dazzle-illustrations-abstract-hand-drawn-vector-illustrations-pack?ref=uiinterfaces) | Human made abstract vector illustrations |
+| [Handy Illustrations](https://www.handyillustrations.com/?ref=uiinterfaces) | Easy to customize illustrations designed for everyone |
+| [Superscene 6.0](https://superscene.pro/?ref=uiinterfaces) | Huge 3D illustration constructor |
+| [Characters 3 ](https://characterz.design/?ref=uiinterfaces) | The most extensive diverse 3D character library in the world |
+| [Stelvio. app](https://stelvio.app/?ref=uiinterfaces) | Create stunning illustrations with tailor-made AI styles. |
+| [VIVID illustrations](https://www.getillustrations.com/illustration-pack/vivid-vector-illustrations?ref=uiinterfaces) | Futuristic minimal vector illustrations for web. |
+| [Ultima](https://ultima.storytale.io/?ref=uiinterfaces) | 750+ free illustrations for creative projects |
+| [Iconic illustrations](https://www.getillustrations.com/illustration-pack/iconic-illustrations?ref=uiinterfaces) | Minimal icon inspired illustrations for busy creators. |
+| [Scribbles by illustrations. run](https://illustrations.run/?ref=uiinterfaces) | Add personality to your designs with unique illustrations |
+| [Ink illustrations](https://www.getillustrations.com/illustration-pack/ink-ui-illustrations?ref=uiinterfaces) | Minimal illustrations for UI design |
+| [Purity illustrations](https://www.getillustrations.com/illustration-pack/purrity-illustrations?ref=uiinterfaces) | Awesome web illustrations for your next project. |
+| [Free illustrations Design](https://www.freeillustrations.design/?ref=uiinterfaces) | Find free to use illustrations |
+| [3D illustrations](https://iconscout.com/3ds?ref=uiinterfaces) | Over 141,000 customizable 3D illustrations. |
+| [Free Valentine’s Day 3d illustrations](https://wannathis.one/freebies/valentines-day-3d-illustrations?ref=uiinterfaces) | Lovely 3d illustrations for your design projects. |
+| [Illustroke](https://illustroke.com/?ref=uiinterfaces) | Stunning vector illustrations from text prompts. |
+| [Weirdzards](https://weirdzards.webflow.io/?ref=uiinterfaces) | Mix-&-match illustrations of wizards with a design library. |
+| [Bloom Objects](https://bloom.craftwork.design/?ref=uiinterfaces) | 450+ abstract 3D shapes in unique textures. |
+| [ThemesKingdom Free Illustrations](https://themeskingdom.com/free-illustrations/?ref=uiinterfaces) | Completely free editable vector illustrations. |
+| [Free Illustrations by Dorik](https://dorik.com/illustrations?ref=uiinterfaces) | 200+ Free Illustrations for your next project. |
+| [Notion Illustrations Wallpaper Pack](https://donbader.gumroad.com/l/Notionwallpapers?_gl=1*1576hbc*_ga*NTA3MjE1NDA4LjE2NjE2Nzc4OTI.*_ga_6LJN6D94N6*MTY2ODA5NTcxMC4xOTEuMS4xNjY4MDk4MjMxLjAuMC4w?ref=uiinterfaces) | Minimalist Notion wallpapers |
+| [Popsy Illustrations](https://popsy.co/illustrations?ref=uiinterfaces) | 100% free vector illustrations. |
+| [DrawKit](https://www.drawkit.com/?ref=uiinterfaces) | Free & premium illustrations, animations, graphics & more... |
+| [E-commerce Club](https://www.overflow.design/ec.html?ref=uiinterfaces) | Notion style e-commerce and payment illustrations. |
+| [Shape](https://shape.so/?ref=uiinterfaces) | 36000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. |
+| [Open Peeps](https://openpeeps.com/?ref=uiinterfaces) | Open Peeps is a hand-drawn illustration library to create scenes of people. You can use them in product illustration, marketing, comics, product states. |
+| [Coco Material](https://cocomaterial.com/?ref=uiinterfaces) | Discover CocoMaterial, the Open Source hand-drawn illustration library with 1,358 images. Customize & download! Search. Person thinking illustration. |
+| [The Doodle Library](https://www.thedoodlelibrary.com/?ref=uiinterfaces) | Increase comprehension, retention, and delight audiences with hundreds of unique hand drawn SVG line art doodles and animated PNGs. |
+| [Haikei](https://app.haikei.app/?ref=uiinterfaces) | Haikei is a web app to generate unique SVG shapes, backgrounds, and patterns – ready to use with your design tools and workflow. Start designing for free. |
+| [Blush](https://blush.design/?ref=uiinterfaces) | Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe. |
+| [Emoji cloud](https://alohe.github.io/emojicloud/?ref=uiinterfaces) | Emoji cloud. A CDN for SVG emoji's. Airplane. Angry face. Anguished face. Anxious face with sweat. Astonished face. Avocado. Backhand index pointing down ... |
+| [Open Doodles](https://opendoodles.com/?ref=uiinterfaces) | A library of sketchy illustrations of people free for personal and commercial use. |
+| [Skribbl](https://weareskribbl.com/?ref=uiinterfaces) | A growing collection of freely-usable, hand-drawn illustrations brought to you by a global community of aspiring creatives. You can use our illustrations for. |
+| [Pixeltrue](https://www.pixeltrue.com/packs?ref=uiinterfaces) | High-quality SVG illustrations & Lottie animations in 12 different styles. Supercharge your website, newsletters, blogs and e-books with high-quality. |
+| [Nice Illustrations](https://niceillustrations.com/?ref=uiinterfaces) | Nice Illustrations is the ultimate library of royalty free illustrations you can use for your design projects. Click to download hundreds of free. |
+| [Story set](https://storyset.com/?ref=uiinterfaces) | Edit and animate all our customizable illustrations to enhance your projects totally free. Start now to be creative in our online editor. |
+| [Control](https://control.rocks/?ref=uiinterfaces) | Combo set of 108 customizable illustrations. |
+| [Doodle Ipsum](https://doodleipsum.com/?ref=uiinterfaces) | The lorem ipsum of illustrations, just customize your doodles. |
+| [Stubborn](https://stubborn.fun/?ref=uiinterfaces) | Free illustrations constructor for Figma & Sketch. |
+| [404 Illustrations](https://error404.fun/?ref=uiinterfaces) | Royalty free illustrations for 404 pages. |
+| [Designstripe](https://designstripe.com/?ref=uiinterfaces) | Create beautiful illustrations, no design skills needed. |
+| [Freebie Supply](https://freebiesupply.com/?ref=uiinterfaces) | Free, high-quality design resources for Photoshop, Sketch, Illustrator, Adobe XD and Figma. |
+| [Interfacer](https://interfacer.xyz/?ref=uiinterfaces) | Interfacer is a collection of 300+ free design resources found on the Web. |
+| [IRA Design](https://iradesign.io/?ref=uiinterfaces) | Ira Design comes with a great variety of ready-to-use examples made with gradients. |
+| [Humans](https://www.humaaans.com/?ref=uiinterfaces) | Mix-&-match illustrations of people with a design library. |
+| [Ouch!](https://icons8.com/illustrations?ref=uiinterfaces) | Free vector and 3D illustrations. |
+| [Absurd Illustrations](https://absurd.design/?ref=uiinterfaces) | With this project, they try to introduce a new way and visual perception for websites, presentations, apps, articles… everything! |
+| [UnDraw](https://undraw.co/?ref=uiinterfaces) | The design project with open-source illustrations for any idea you can imagine and create. |
+
+

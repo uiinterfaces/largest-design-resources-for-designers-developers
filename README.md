@@ -169,8 +169,8 @@ UIInterfaces provides an array of builders to streamline your design process
 Enhance your browsing experience with UIInterfaces' Chrome and Firefox extensions.
 
 
-| Website || Description |
-| :-------- | :------- | :------------------------- |
+| Website | Description |
+| -------- | ------------------------- |
 | [Fake Filler](https://addons.mozilla.org/en-US/firefox/addon/fake-filler/?ref=uiinterfaces) | Fill out web forms with dummy data |
 | [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/?ref=uiinterfaces) | Identify technologies used on websites |
 | [React Developer Tool](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/?ref=uiinterfaces) | Inspect React component hierarchy.|
@@ -231,8 +231,8 @@ Enhance your browsing experience with UIInterfaces' Chrome and Firefox extension
 ## Collaboration Tools
 Effortlessly collaborate with team members and clients using UIInterfaces' collaboration tools.
 
-| Website || Description |
-| :-------- | :------- | :------------------------- |
+| Website | Description |
+| -------- | ------------------------- |
 | [Collab Shot](https://www.collabshot.com/?ref=uiinterfaces) | Real-time screen grabs and image sharing |
 | [Noor Beta](https://noor.to/?ref=uiinterfaces) | Time to replace Slack. |
 | [Current](https://current.so/?ref=uiinterfaces) | Share work-in-progress & get weekly AI powered summaries. |
@@ -280,8 +280,8 @@ Effortlessly collaborate with team members and clients using UIInterfaces' colla
 ## Color Tools
 Effortlessly collaborate with team members and clients using UIInterfaces' collaboration tools.
 
-| Website || Description |
-| :-------- | :------- | :------------------------- |
+| Website | Description |
+| -------- | ------------------------- |
 | [Clker](http://www.clker.com/?ref=uiinterfaces) | Free clip art you can use for anything you like |
 | [Trianglify.io](https://trianglify.io/?ref=uiinterfaces) | Generate low-poly backgrounds, textures, and vectors |
 | [Huemint](https://huemint.com/?ref=uiinterfaces) | Huemint uses machine learning to create unique color schemes for your brand, website or graphic |
@@ -407,8 +407,8 @@ Effortlessly collaborate with team members and clients using UIInterfaces' colla
 UIInterfaces offers comprehensive design systems to ensure consistency and efficiency in your projects.
 
 
-| Website || Description |
-| :-------- | :------- | :------------------------- |
+| Website | Description |
+| -------- | ------------------------- |
 | [Google Web Designer](https://webdesigner.withgoogle.com/?ref=uiinterfaces) | Create engaging, interactive HTML5-based designs and motion graphics that can run on any device. |
 | [Inpixio photo Editor](https://www.inpixio.com/free-photo-editor/?ref=uiinterfaces) | Free Photo Editor: For windows only |
 | [Patterns](https://www.patterns.dev/?ref=uiinterfaces) | A resource to improve on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React. |
@@ -477,8 +477,8 @@ UIInterfaces offers comprehensive design systems to ensure consistency and effic
 UIInterfaces provides a wide range of design tools for graphic designers, web designers, and UI/UX designers. 
 
 
-| Website || Description |
-| :-------- | :------- | :------------------------- |
+| Website | Description |
+| -------- | ------------------------- |
 | [Leonardo.Ai](https://leonardo.ai/?ref=uiinterfaces) | Leonardo AI is an AI-powered design tool that can help you create designs based on reference images. |
 | [Design Notes](https://www.designnotes.co/?ref=uiinterfaces) | Free online resource library for product designers |
 | [Origami Studio](https://origami.design/?ref=uiinterfaces) | Interactive interface design tool created by Facebook: For mac only |
